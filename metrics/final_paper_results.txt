@@ -1,0 +1,38 @@
+1. RAG Quality Table (RAGAS)
+| Metric | Score | Target | Status |
+| :--- | :--- | :--- | :--- |
+| Faithfulness | 0.9222 | 0.85 | PASS |
+| Answer Relevancy | 0.8607 | 0.85 | PASS |
+
+2. Latency Performance Table (50 Concurrent Requests)
+| Component | Avg Latency (ms) | P95 Latency (ms) |
+| :--- | :--- | :--- |
+| YOLO Detection | 489.20 | 796.00 |
+| RAG Generation | 375.74 | 0.00 |
+| Database Query | 15.92 | 17.00 |
+| Total End-to-End | 978.86 | 966.00 |
+
+3. System Configuration Settings (from rag/config.py)
+
+CHUNK_SIZE: 500
+
+CHUNK_OVERLAP: 50
+
+RETRIEVER_K: 3
+
+CURRENT_RAG_CONFIG_EMBEDDING_MODEL: BAAI/bge-base-en-v1.5
+
+4. Member 3 Latency KPI Check
+
+Target KPI: Total end-to-end latency (total_ms) < 3000 ms under 50 concurrent requests.
+
+Measured total_ms:
+- Average: 978.86 ms
+- P95: 966.00 ms
+
+KPI Verdict: PASS
+
+5. Member 5 Handoff Note
+
+Use Section 2 (Latency Performance Table) directly in the IEEE Performance Analysis subsection.
+This table provides both average and P95 latency required for production-readiness discussion.

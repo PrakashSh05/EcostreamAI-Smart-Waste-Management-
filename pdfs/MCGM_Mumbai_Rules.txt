@@ -1,0 +1,2383 @@
+[Page 1]
+Page 1 of 64 
+ 
+PRIVATE AND CONFIDENTIAL 
+ 
+ 
+Prepared for: 
+BRIHANMUMBAI MUNICIPAL CORPORATION Vetting of 
+Municipal Solid Waste (Management & Handling), 
+Cleanliness and Sanitation Byelaws for Brihanmumbai 
+Municipal Corporation , 2025 
+ 
+ 
+Dated: February , 2025
+
+[Page 2]
+Page 2 of 64 
+ TABLE OF CONTENTS 
+ 
+SN PARTICULARS PAGE 
+ 
+CHAPTER -I GENERAL ................................ ................................ ................... 4 
+1. Name in Brief and Beginning ................................ ................................ .. 4 
+2. Applicability and Scope ................................ ................................ .......... 4 
+3. Right to Interpret ................................ ................................ ................... 4 
+CHAPTER -II DEFINITIONS ................................ ................................ ............. 5 
+4. Definitions ................................ ................................ ............................. 5 
+CHAPTER -III (PROHIBITION OF LITTERING, AND OTHER NUISANCES AND 
+ENSURING “CLEAN AANGAN/PREMISES/PLACE”) ............................... 21 
+5. Prohibition of Littering, and other Nuisances and Ensuring “Clean 
+Aangan/Premises/Place” ................................ ................................ ...... 21 
+CHAPTER -IV (SEGREGATION OF MUNICIPAL SOLID WASTE AND STORAGE 
+AND DELIVERY OF MUNICIPAL SOLID WASTE) ................................ .... 22 
+6. Segregation of Municipal Solid Waste ................................ .................... 22 
+7. Storage and Delivery of Municipal Solid Waste ................................ ...... 23 
+CHAPTER -V (RESPONSIBILITIES AND DUTIES OF GENERATORS, 
+BRIHANMUMBAI MUNICIPAL CORPORATION, AGENTS AND 
+CONTRACTORS) ................................ ................................ .................. 25 
+8. Responsibilities of Agents/Contractors of BMC ................................ ..... 25 
+9. Responsibilities and Duties of Generators ................................ ............. 25 
+10. Responsibilities of BMC and/or Generators of Waste in Case of Some 
+Specific Categories/Situations ................................ .............................. 26 
+CHAPTER -VI ................................ ................................ ............................... 28 
+(I) SOLID WASTE ................................ ................................ ......................... 28 
+11. Management of Solid Waste ................................ ................................ .. 28 
+12. Materials Recovery Facilities (MRFs) ................................ ..................... 29 
+(II) BIO -MEDICAL WASTE ................................ ................................ ............ 31 
+13. Management of Bio -Medical Waste ................................ ....................... 31 
+(III) E -WASTE ................................ ................................ .............................. 36 
+14. Management of E -Waste ................................ ................................ ....... 36 
+(IV) CONSTRUCTION AND DEMOLITION WASTE ................................ .......... 41 
+15. Management of Construction and Demolition Waste (C & D Waste) ........ 41 
+CHAPTER -X BULK GARDEN AND HORTICULTURAL WASTE ........................ 44 
+16. Management of Bulk Garden Waste and Horticultural Waste ................. 44 
+CHAPTER -XI PLASTIC WASTE ................................ ................................ ..... 45
+
+[Page 3]
+Page 3 of 64 
+ 17. Management of Plastic Waste ................................ ............................... 45 
+18. Segregation, Collection and Storage of Plastic Waste ............................. 48 
+19. Collection Centres and Transportation ................................ .................. 49 
+20. Processing of Plastic Wastes ................................ ................................ . 49 
+21. Plastic Waste Management System ................................ ....................... 49 
+22. Organized retailers, un -organized retailers and street vendors ............... 50 
+CHAPTER -XII IMPLEMENTATION AND GRIEVANCE REDRESSAL ................. 52 
+23. Monitoring and Grievance Redressal ................................ ..................... 52 
+CHAPTER -XIII ENFORCEMENT OF THE PROVISIONS OF THESE BYE -LAWS 53 
+24. Enforcement of the provisions of these Bye -Laws ................................ .. 53 
+CHAPTER -XIV PENALTY ................................ ................................ .............. 54 
+25. Penalties for contravention of these Bye -laws ................................ ........ 54 
+CHAPTER -XV MISCELLANEOUS PROVISIONS ................................ ............. 55 
+26. Miscellaneous Provisions ................................ ................................ ...... 55 
+CHAPTER -XVI RIGHT TO APPEAL ................................ ................................ 56 
+27. Power of Municipal Commissioner to make Rules/Regulations under this 
+Bye-laws ................................ ................................ .............................. 56 
+28. Right to Appeal ................................ ................................ .................... 56 
+SCHEDULE –I (Schedule of Penalty) ................................ .............................. 56 
+SCHEDULE –II (Illustrative list of biodegradable and recyclable waste) ........... 59 
+SCHEDULE –III (Specified Household Hazardous Waste) ................................ 60 
+SCHEDULE –IV (List of Bio -medical waste) ................................ .................... 61 
+SCHEDULE –V (User Fees) ................................ ................................ ............ 62 
+SCHEDULE –VI (Statutes, Rules, Notifications, Circulars, Guidelines) ............ 63
+
+[Page 4]
+Page 4 of 64 
+ CHAPTER -I GENERAL 
+ 
+Government of Maharashtra 
+Notification No.________ 
+Date:_________ 
+ 
+Under the power vested by Section 461 (ee) of the Mumbai Municipal Corporation 
+Act, 1888 and with the object to organize & regularize Solid Waste Management 
+and Handling Work and for regulating all matte rs and things connected with the 
+Segregation, Collection, Removal, Recycling, Transportation, Processing and 
+Disposal of Solid Waste and Wet Waste generated or brought within the 
+jurisdiction of Brihanmumbai Municipal Corporation and in view of the Solid 
+Waste Management Rules, 2016 issued in public interest by the Ministry of 
+Environment, Forest and Climate Change, Government of India on 8thApril 2016, 
+the Government of Maharashtra h ereby forms the following Bye-laws for Solid 
+Waste (Management & Handling), Cleanliness and Sanitation Bye -laws for 
+Brihan mumbai Municipal Corp oration, 2 02_. 
+ 
+1. Name in Brief and Beginning 
+ 
+1.1 These Bye-laws shall be known as Solid Waste (Management & Handling), 
+Cleanliness and Sanitation Byelaws for Brihanmumbai Municipal 
+Corporation , 202_ and come into operation from the ______ (date). 
+ 
+1.2 These Bye -laws shall remain in force until amended in accordance with 
+Mumbai Municipal Corporation Act, 1888, due notice of such amendment 
+being published in the local newspape rs of the State of Maharashtra. 
+ 
+1.3 BMC shall revise the schedules for penalties and user fees after every 
+three (3) years by taking necessary approval as per provisions of 
+Mumbai Municipal Corporation Act, 1888 
+ 
+2. Applicability and Scope 
+ 
+2.1 Except where it is otherwise expressly or impliedly provided, these Bye -
+laws shall apply to all pe rsons, including all generato rs of waste, within 
+the whole geographical area veste d in the Brihanmumbai Municipal 
+Corporation (hereinafter referred to as “ BMC”) from time to time by the 
+Government including all public and private places irrespective of its use 
+or owne rship, i.e., dwelling, trading, commer cial, professional, industrial, 
+governmental, semi -governmental, administrative, educational, religious, 
+recreational, social and all other usages which are not included herein. 
+ 
+3. Right to Interpret 
+ 
+3.1 If any question relating to the interpretation of these Bye -laws arises , it 
+shall be referred to the Municipal Comm issioner who shall give his/her 
+decision and wh ose decision shall be final.
+
+[Page 5]
+Page 5 of 64 
+ CHAPTER -II DEFINITIONS 
+4. Definitions 
+In these Bye -laws and the Schedule attached thereto the following words shall 
+have the meaning herein defined i.e.: 
+4.1. “aangan / 
+premises / place ” : means the public place in front of, or adjacent 
+on any side of any premises including 
+residential/commercial premises owne d by a 
+person , extending to the road, kerb side 
+including the footpath kerb, drain, nala, plot or 
+premises; 
+4.2. “aerobic 
+composting” : means a controlled process involving microbial 
+decomposition / breaking down of organic 
+matter in the presence of oxygen; 
+4.3. “agency / agent / 
+service provider” : means any entity / person appointed or 
+authorized by BMC to act on behalf of the BMC, 
+for discharge of duties or functions i.e. 
+sweeping of streets or collection, segregation, 
+transportation, storage, treatment, processing, 
+disposal or any other handling of waste 
+including the operation and maintenance of 
+any facility undertaking such as functi ons, 
+collection of charges / fines, and other such 
+delegated responsibilities etc.; 
+4.4. “anaerobic 
+digestion” : means a controlled process involving microbial 
+decomposition / breaking down of organic 
+matter in absence of oxygen; 
+4.5. “applicable acts 
+and rules” : mean s applicable acts and rules as prescribed 
+in Schedule VI; 
+4.6. “authorization” : means the permission given by Competent 
+Authority, as the case may be, to the operator 
+of a facility or urban local authority, or any 
+other agency responsible for processing and 
+disposal of solid waste wherever applicable or 
+the permission given by the urb an local 
+authority or agency responsible for solid waste. 
+In accordance with Sub -rule 15 (y) of the Solid 
+Waste Management Rules, 2016, every Local 
+Authority need to obtain Authorization for 
+processing / recycling / treatment and disposal
+
+[Page 6]
+Page 6 of 64 
+ of solid waste. Every Urban Local Authority 
+should apply to BMC to obtain authorization. 
+4.7. “bio-degradable 
+waste” : means any organic material that can be 
+degraded by microorganisms into simpler 
+stable compounds; for example, the waste of 
+plant and animal origin e.g. kitchen waste, food 
+& flower waste, leaf litter, garden waste, animal 
+dung, fish / meat waste and any other material 
+that gets degraded / decomposed by the action 
+of microorganisms; 
+4.8. “bio-medical 
+waste” : means any waste, which is generated during 
+the diagnosis, treatment or immunization of 
+human beings or animals or in research 
+activities pertaining thereto or in the 
+production or testing of biological, and 
+including categories mentioned in Schedule IV 
+of the Bye -laws; 
+4.9. “bio-methanation” : means a process which entails enzymatic 
+decomposition / breaking down of the organic 
+matter by microbial action to produce 
+methane -rich biogas; 
+4.10. “BMC” : means Brihanmumbai Municipal Corporation 
+established under Mumbai Municipal 
+Corporation Act, 1888; 
+4.11. “brand owner” : means a person or company who sells any 
+commodity under a registered brand label; 
+4.12. “buffer zone” : means zone of no -development to be 
+maintained around solid waste processing and 
+disposal facility, exceeding 5 TPD of installed 
+capacity. This will be maintained within the 
+total area allotted for the solid waste processing 
+and disposal facility as decided by BMC; 
+4.13. “bulk garden and 
+horticultural 
+waste” : mean bulk waste from parks, gardens, traffic 
+islands, road medians etc. including grass & 
+wood clippings, weeds, woody ‘brown’ carbon -
+rich material such as pruning, branches, twigs, 
+wood chipping, straw or dead leaves and tree 
+trimmings, which cannot be ac commodated in 
+the daily collection system for bio -degradable 
+waste;
+
+[Page 7]
+Page 7 of 64 
+ 4.14. “bulk waste 
+generator” : means the owner, occupier, tenant or any other 
+person representing owners and occupiers of 
+House(s) / Flat(s), Group of Houses / Flats, 
+housing society(s) / complex(s), Restaurant(s), 
+Hotel(s), Market(s), Industrial Estate(s) and 
+Shopping Complex(s) / Mall(s) and includes 
+buildings occupied by the Central Government 
+Ministries, Departments or Undertakings, 
+State Government Departments or 
+Undertakings, Local Bodies, Public Sector 
+Undertakings or Private Companies, 
+Hospital(s), Nursing Home(s), School(s), 
+College(s), University(s), Other Educational 
+Institutions, Hostel(s), Commercial 
+Establishment(s), Places of Worship, Stadia 
+and Sports complexes, clubs, gymkhana, 
+marriage halls, recreation / entertainment 
+complexes having plot area exceeding 5,000sq. 
+mtr. and / or an average waste generation rate 
+exceeding 100kg per day; or other 
+establishment sources / premises that are 
+specifically identified and notified by the 
+Municipal Commissioner or any competent 
+officer appointed by him / her in this regard; 
+4.15. “bye-laws” : means regulatory framework notified by State 
+/ urban local body, census town and notified 
+area townships for facilitating the 
+implementation of these bye -laws in their 
+jurisdiction; 
+4.16. “census town” : means an urban area as defined by the 
+Registrar General and Census Commissioner of 
+India; 
+4.17. “chief engineer” : means the Chief Engineer of the Solid Waste 
+Management Department of the BMC; 
+4.18. “collection at 
+source” : means the collection of segregated solid waste 
+by the BMC directly from any Generator , in 
+accordance with these Bye -laws or as may be 
+notified by the Commissioner or any competent 
+officer appointed by him / her in this regard. 
+4.19. “collection” : means lifting and removal of municipal solid 
+waste from designated collection points or any 
+other location as may be notified by the BMC;
+
+[Page 8]
+Page 8 of 64 
+ 4.20. “combustible 
+waste” : means non-biodegradable, non -recyclable, 
+non-reusable, nonhazardous solid waste 
+having minimum calorific value 1500 kcal / kg 
+and excluding chlorinated materials like 
+plastic, wood pulp, etc.; 
+4.21. “community bin” : means an approved receptacle provided to the 
+Generator for the storage of waste which is 
+placed at the specified Collection Point on the 
+sides of private roads, by - lanes etc. or on the 
+premises of societies, apartments, bungalows 
+etc., to ensure collection of solid waste in terms 
+of these Bye -laws; 
+4.22. “community 
+service” : means to serve the community by sweeping of 
+public roads. 
+4.23. “competent 
+authority” : means any person / persons or authority / 
+authorities; authorized by the prescribed 
+authority as the case may be, to perform the 
+functions as specified under these bye -laws; 
+4.24. “compost” : means the product obtained through aerobic 
+composting or Vermi - composting; 
+4.25. “composting” : means a controlled process involving microbial 
+decomposition / degradation / breaking down 
+of organic matter under predominantly aerobic 
+conditions; 
+4.26. “Construction 
+and Demolition 
+Waste (C&D 
+ Waste)” : means waste from building materials, debris 
+and such rubble resulting from construction, 
+remodeling, repair and demolition operations; 
+4.27. “contractor” : means a person or firm that undertakes a 
+contract to provide / to perform a service or do 
+a job for service providing authority; 
+4.28. “co-processing” : means use of non -biodegradable and non -
+recyclable solid waste as raw material or as a 
+source of energy or both to replace or 
+supplement the natural mineral resources and 
+fossil fuels in industrial processes;
+
+[Page 9]
+Page 9 of 64 
+ 4.29. “decentralized 
+processing” : means establishment of dispersed facilities for 
+maximizing the processing of biodegradable 
+waste and recovery of recyclables closest to the 
+source of generation so as to minimize 
+transportation of waste for processing or 
+disposal; 
+4.30. “delivery” : means handing over any category of solid waste 
+to BMC or any other person authorized by BMC 
+for taking delivery of such waste; 
+4.31. “disposal” : means the final and safe disposal of post -
+processed residual solid waste and inert street 
+sweepings and silt from surface drains on land 
+as specified in Schedule I to the Solid Waste 
+Management Rules to prevent contamination of 
+ground water, surface water, ambient air 
+quality and attraction of stray animals or birds; 
+4.32. “domestic 
+hazardous waste” : means discarded paint drums, pesticide cans, 
+CFL bulbs, tube lights, medicines including 
+expired medicines, broken mercury 
+thermometers, batteries, used needles and 
+syringes and contaminated gauge, mask, PPE 
+Kits, soiled sanitary waste etc., generated at the 
+household level; 
+4.33. “door to door 
+collection” : means Collection of solid waste from entry gate 
+or a designated location on the ground floor in 
+a housing society, multi storied building or 
+apartments, residential, non -residential, etc.; 
+4.34. “Door -to-Door 
+collection system” : means as may be defined and authorized by the 
+Corporation. 
+4.35. “Dry Waste 
+Sorting Center” : means any designated land, shed, kiosk, or 
+structure located on any municipal or 
+Government land or in a public space which is 
+authorized to receive and sort dry waste; 
+4.36. “dry waste” : means waste other than bio -degradable waste 
+and inert street sweepings and includes 
+recyclable and non -recyclable waste, 
+combustible waste and sanitary napkin and 
+diapers, etc.;
+
+[Page 10]
+Page 10 of 64 
+ 4.37. “dump sites” : means a land utilized by BMC for disposal of 
+solid waste without sanitary land filling; 
+4.38. “Extended 
+Producer 
+Responsibility” 
+(ERP) : EPR means responsibility of any producer of 
+packaging products such as plastic, tin, glass 
+and corrugated boxes, etc., for environmentally 
+sound management, till end -of-life of the 
+packaging products; 
+4.39. “facility” : means any establishment wherein the solid 
+waste management processes namely 
+segregation, recovery, storage, collection, 
+recycling, processing, treatment or safe 
+disposal are carried out; 
+4.40. “fine” : means penalty imposed on Persons, waste 
+generators or operators of waste processing 
+and disposal facilities under the bye -laws for 
+non-compliance of the directions contained in 
+these bye - laws; 
+4.41. “generator of 
+waste” : means any person generating municipal solid 
+waste within the limits of BMC; 
+4.42. “ghanta -gadi” : means the vehicle provided by BMC for point -
+to point collection of municipal solid waste with 
+bell-ringing / speaker / public address 
+mechanism ; . The Sound limit for ghanta gadi 
+speakers are to be kept below the prescribed 
+decibel limits; 
+4.43. “handling” : includes all activities relating to sorting, 
+segregation, material recovery, collection, 
+secondary storage, shredding, baling, 
+crushing, loading, unloading, transportation, 
+processing and disposal of solid wastes; 
+4.44. “hazardous 
+waste” : means any waste, which by reason of any of its 
+physical, chemical, reactive, toxic, harmful, 
+explosive or corrosive characteristics causes 
+danger or is likely to cause danger to health or 
+environment, whether alone or when in contact 
+with other wastes or s ubstances and shall 
+include wastes specifically listed in Schedule I 
+of these Bye -laws;
+
+[Page 11]
+Page 11 of 64 
+ 4.45. “house -gully / 
+lane / Service 
+Lane” : means a passage or strip of land, constructed, 
+set apart or utilized for the purpose of serving 
+for utilities for water pipeline ; 
+4.46. “incineration” : means an engineered process involving 
+burning or combustion of solid waste to 
+thermally degrade waste materials at high 
+temperatures; 
+4.47. “inert solid waste” : means any solid waste or remnant of 
+processing whose physical, chemical and 
+biological properties make it suitable for 
+sanitary land filling; 
+4.48. “inerts” : means wastes which are not bio-degradabl e / 
+non-recyclable / non- combustible and silt 
+removed from the surface drains; 
+4.49. “informal waste 
+collector” : includes individuals, associations or waste 
+traders who are involved in collection, sorting, 
+sale and purchase of recyclable materials; 
+4.50. “land filling” : means the final and safe disposal of residual 
+solid wastes and inert waste on land in a facility 
+designed in accordance with various Central or 
+State Rules and regulations with protective 
+measures against pollution of ground water, 
+surface water and air fu gitive dust, windblown 
+litter, bad odor, fire hazard, bird menace, pests 
+or rodents, greenhouse gas emissions, slope 
+instability and erosion; 
+4.51. “Leachate” : means the liquid that oozes and seeps through 
+solid waste or other medium and has extracts 
+of dissolved or suspended material from the 
+media; 
+4.52. “Litter” : means all refuse and includes any other waste 
+material which, if thrown or deposited , tends to 
+create nuisance, dirt, insanitary conditions, 
+ugliness and endangers cleanliness, public 
+orderliness & movement, environment, public 
+health, safety, life and welfare as prohibited 
+under these Bye -laws (or any other law in 
+force);
+
+[Page 12]
+Page 12 of 64 
+ 4.53. “littering” : means carelessly spreading litter that falls, 
+descends, blows, seeps, percolates or otherwise 
+escapes or is likely to fall, descend, blown, 
+seep, percolate or otherwise escape into or onto 
+any public or private place; Or causing, 
+permitting or allowing litter to fall, descend, 
+blow, seep, percolate or otherwise escape into 
+or onto any public or private place; 
+4.54. “local body” : for the purpose of these Bye-laws means and 
+includes the BMC; 
+4.55. “market” : includes any place where persons assemble for 
+the sale of, or for the purpose of exposing of 
+sale, meat, fish, fruits, vegetables, animals 
+intended for human food or any other articles 
+of human needs whatsoever, with or without 
+the consent of the owner of such place 
+notwithstanding that there may be no common 
+regulation for the concourse of buyer s and 
+sellers and whether or not any control is 
+exercised over the business of, or the person 
+frequenting, the market by the owner of the 
+place or by any other pers on; 
+4.56. “materials 
+recovery facility” : means a facility where non -compostable solid 
+waste can be temporarily stored by the BMC or 
+any other entity mentioned in rule 2 or any 
+person or agency authorized by any of them to 
+facilitate segregation, sorting and recovery of 
+recyclables from various components of waste 
+by authorized informal sector of waste pickers, 
+informal recyclers or any other work force 
+engaged by the BMC or entity mentioned in rule 
+2 for the purpose before the waste is delivered 
+or taken up for its processing or disposal; 
+4.57. “Municipal 
+Commissioner” : means the Chief Executive Officer of the BMC 
+and under whose authority all projects of the 
+BMC are carried out. 
+4.58. “municipal 
+corporation / 
+council / 
+municipality / 
+urban local body” : means the BMC under Mumbai Municipal 
+Corporation Act, 1888.
+
+[Page 13]
+Page 13 of 64 
+ 4.59. “Municipal Solid 
+Waste” : includes commercial, residential and other 
+waste generated within the limits of BMC either 
+in solid or semi -solid form excluding industrial 
+hazardous waste, but includes treated bio -
+medical waste; 
+4.60. “non-
+biodegradable 
+waste” : means any waste that cannot be degraded by 
+micro -organisms into simpler stable 
+compounds; 
+4.61. “nuisance 
+detectors” : means employees or agents of BMC appointed 
+by BMC to detect acts of public nuisance etc. 
+under the Bye laws; 
+4.62. “nuisance” : includes any act, omission, place, animal or 
+thing which causes or is likely to cause injury, 
+danger, annoyance or offense to the sense of 
+sight, smell, hearing, breath, or disturbance to 
+movement, work, rest or sleep, or which is or 
+may be dangerous to life or injurious to health 
+or property; 
+4.63. “occupier” : Includes :- 
+(a) any person who for the time being is paying 
+or is liable to pay to the owner the rent or 
+any portion of the rent of the land or 
+building in respect of which such rent is 
+paid or is payable; in occupation of, or 
+otherwise using, any land or building or 
+part thereof, for any purpose whatsoever; 
+(b) an owner in occupation of, or otherwise 
+using his land or building; 
+(c) a rent - free tenant of any land or building; 
+(d) a licensee in occupation of any land or 
+building; and 
+(e) any person who is liable to pay to the 
+owner damages for the use and occupation 
+of any land or building; 
+(f) the custodian of evacuee property in 
+respect of evacuee property vested in him 
+under the Administration of Evacuee 
+Property Act,1950; 
+(g) the Estate Officer to the Government, of 
+India, Secretary, Maharashtra Housing 
+and Area Development Authority
+
+[Page 14]
+Page 14 of 64 
+ constituted under the MHADA ACT, 1976; 
+and 
+(h) the General Manager of a Railway and the 
+head of a Government Department, in 
+respect of properties under their respective 
+control. 
+4.64. “office” : means head office and other ward / 
+depart mental offices of BMC; 
+4.65. “operator of a 
+facility / operator 
+of concession” : means a person or entity, who owns or operates 
+the concession for handling, collection, sorting, 
+storage, transportation, processing and 
+disposal of municipal solid waste and it also 
+includes any other agency appointed by the 
+BMC/ municipal authority for management 
+and handling of municipal solid waste in its 
+area and any other entity or agency appointed 
+by the BMC; 
+4.66. “pellet forming” : means a process used to make pellets, which 
+will be small cubes / cuboids or cylindrical 
+pieces from solid waste and will also include 
+fuel pellets which is obtained from garbage. 
+4.67. “Person” : means any individual /s and shall include any 
+shop or establishment or firm or company or 
+association or body of individuals or agents; 
+assignee etc.; 
+4.68. : 
+4.69. “point to point 
+collection” : means the system of collection of municipal 
+solid waste from specific pick -up points as 
+designated by BMC, up to which the generator 
+must bring the segregated, collected and stored 
+waste for delivery in vehicles so provided / 
+deployed by the BMC; 
+4.70. “primary 
+collection” : means collecting, lifting and removal of 
+segregated solid waste from source of its 
+generation including households, shops, offices 
+and any other non -residential premises or from 
+any collection points or any other location 
+specified by the BMC;
+
+[Page 15]
+Page 15 of 64 
+ 4.71. “processing” : means any scientific process by which solid 
+waste is treated for processing for the purpose 
+of reuse, recycling or transformation into new 
+products or making it suitable for land filling; 
+4.72. “public nuisance” : means any act, omission, offence or wrong -
+doing which causes or is likely to cause 
+nuisance (as defined) in any public place; 
+4.73. “public place” : means any place which is open to the use and 
+enjoyment of the public, whether it is actually 
+used or enjoyed by the public or not; 
+4.74. “receptacle” : means container, including bins and bags, 
+used for the storage of any category of 
+municipal waste as permitted by BMC from 
+time to time; 
+4.75. “recycling” : means the process of transforming segregated 
+non-biodegradable solid waste into raw 
+materials for producing new products, which 
+may or may not be similar to the original 
+products; 
+4.76. “redevelopment” : means rebuilding of old residential or 
+commercial buildings at the same site, where 
+the existing buildings and other infrastructures 
+have become dilapidated; 
+4.77. “Refuse Derived 
+Fuel” 
+(RDF) : RDF means fuel derived from combustible 
+waste fraction of solid waste like plastic, wood, 
+pulp or organic waste, other than chlorinated 
+materials, in the form of pellets or fluff 
+produced by drying, shredding, dehydrating 
+and compacting of solid waste; 
+4.78. “refuse” : means any waste matter generated out of 
+different activities, processes, either degradable 
+/ non-degradable garbage and rubbish / inert 
+in nature in either solid or semi -solid form 
+which cannot be consumed, used or processed 
+by the generator in its existing form; 
+4.79. “residual solid 
+waste” : means and includes the waste and rejects from 
+the solid waste processing facilities which are 
+not suitable for recycling or further processing;
+
+[Page 16]
+Page 16 of 64 
+ 4.80. “rubbish” : includes ashes, broken bricks, broken glasses, 
+dust, mortar and refuse of any kind which is 
+not filth; 
+4.81. “sanitary land 
+filling” : means the final and safe disposal of residual 
+solid waste and inert wastes on land in a facility 
+designed with protective measures against 
+pollution of ground water, surface water and 
+fugitive air dust, wind -blown litter, bad odor, 
+fire hazard, animal menace, bird menace, pests 
+or rodents, greenhouse gas emissions, 
+persistent organic polluta nts slope instability 
+and erosion; 
+4.82. “sanitary waste” : means wastes comprising of used diapers, 
+sanitary towels or napkins, tampons, condoms, 
+incontinence sheets and any other similar 
+waste; 
+4.83. “sanitation” : means the promotion of hygiene and the 
+prevention of disease and other Causes of ill 
+health related to environmental factors 
+However, the relevant provisions in respect of 
+sanitation and health in Mumbai Municipal 
+Corporation Act, 1888 (updated); shall 
+continue to prevail, as usual; 
+4.84. “schedule” : means the Schedule appended to these Bye -
+laws; 
+4.85. “secondary 
+storage” : means the temporary containment of solid 
+waste after collection at secondary waste 
+storage depots / transfer stations or MRFs or 
+bins for onward transportation of the waste to 
+the processing or disposal facility; 
+4.86. “segregation” : means sorting and separate storage of various 
+components of solid waste such as 
+biodegradable wastes including agriculture and 
+dairy waste, non -biodegradable wastes 
+including recyclable waste, non -recyclable 
+combustible waste, sanitary waste and non -
+recyclable inert waste, domestic hazardous 
+wastes, and C&D Waste as may be directed by 
+the Municipal Commissioner;
+
+[Page 17]
+Page 17 of 64 
+ 4.87. “service provider” : means an authority providing public utility 
+services like water, sewerage, electricity, 
+telephone, roads, drainage, etc.; 
+4.88. “solid waste” : means and includes solid or semi -solid 
+domestic waste, sanitary waste, commercial 
+waste, institutional waste, catering and market 
+waste and other non -residential wastes, street 
+sweepings, silt removed or collected from the 
+surface drains, horticulture waste, agriculture 
+and dairy waste, treated bio medical waste 
+excluding industrial waste, biomedical waste 
+and e -waste, battery waste, radio -active waste 
+generated in the area under the local 
+authorities and other entities mentioned in 
+Rule 2 of Solid Waste Management Rules, 
+2016 ; 
+4.89. “sorting” : means separating various components and 
+categories of recyclables such as paper, plastic, 
+cardboards, metal, glass, etc., from mixed 
+waste as may be appropriate to facilitate 
+recycling; means separating organic, inorganic, 
+recyclable and hazardous wastes i nto 
+categories to facilitate recycling; 
+4.90. “source” : means the premises from which waste is 
+generated; 
+4.91. “stabilized 
+biodegradable 
+waste” : means the biologically stabilized (free of 
+pathogens) waste resulting from the 
+mechanical / biological treatment of 
+biodegradable waste; only when stabilized such 
+waste can be used with no further restrictions; 
+4.92. “stabilizing” : means the process of making something 
+physically more stable and non -volatile ; 
+4.93. “state board or 
+committee” : means, as applicable, State Pollution Control 
+Board of Maharashtra State ; 
+4.94. “storage” : means the temporary containment of 
+municipal solid waste in receptacles; prevent 
+littering, attraction to vectors, stray animals 
+and excessive foul odor;
+
+[Page 18]
+Page 18 of 64 
+ 4.95. “street vendor” : means any person engaged in vending of 
+articles, goods, wares, food items or 
+merchandise of everyday use or offering 
+services to the general public, in a street, lane, 
+side walk, footpath, pavement, public park or 
+any other public place or private area, from a 
+temporary built up structure or by moving from 
+place to place and includes hawker, peddler, 
+squatter and all other synonymous terms 
+which may be local or region specific; and the 
+words “street vending” with their grammatical 
+variations and cognate expressio ns, shall be 
+construed accordingly; 
+4.96. “street” : includes any way, road, lane, square, court, 
+alley, gully, passage, whether a thoroughfare or 
+not and whether built upon or not, over which 
+the public have a right of way and also the 
+roadway or footway over any bridge or 
+causeway; 
+4.97. “tipping fee” : means a fee or support price determined by the 
+local authorities or any state agency authorized 
+by the State government to be paid to the 
+concessionaire or operator of waste processing 
+facility or for disposal of residual solid waste at 
+the landfill; 
+4.98. “transfer station” : means a facility created to receive solid waste 
+from collection areas and transport in bulk in 
+covered vehicles or containers to waste 
+processing and, or, disposal facilities; 
+4.99. “transportation” : means conveyance of solid waste, either 
+treated, partly treated or untreated from a 
+location to another location in an 
+environmentally sound manner through 
+specially designed and covered transport 
+system so as to prevent the foul odor, littering 
+and unsigh tly conditions and accessibility to 
+vectors, animals and birds; 
+4.100. “treatment” : means the method, technique or process 
+designed to modify physical, chemical or 
+biological characteristics or composition of any 
+waste so as to reduce its volume and potential 
+to cause harm;
+
+[Page 19]
+Page 19 of 64 
+ 4.101. “user fee” : means a fee imposed by the BMC and any 
+entity mentioned in rule 2 of the Solid Waste 
+Management Rules, 2016 on the waste 
+generator to cover full or part cost of providing 
+street sweeping, solid waste collection, 
+transportation, processing and disposal 
+services. 
+4.102. “vermi 
+composting” : means the process of conversion of bio -
+degradable waste into compost using earth 
+worms; 
+4.103. “waste generator” : means and includes every person or group of 
+persons, every residential premises and non -
+residential establishments including Indian 
+Railways, Defense establishments, etc. which 
+generate solid waste; 
+4.104. “waste hierarchy” : means the priority order in which the solid 
+waste should be managed by giving emphasis 
+to prevention, reduction, reuse, recycling, 
+recovery and disposal, with prevention being 
+the most preferred option and the disposal at 
+the landfill being the least; 
+4.105. “waste picker” : means a person or groups of persons informally 
+engaged in collection and recovery of reusable 
+and recyclable solid waste from the source of 
+waste generation on streets, bins, MRFs, 
+processing and waste disposal facilities for sale 
+to recyclers directly or through intermediaries 
+to earn their livelihood; 
+4.106. “waste traders” : includes small waste traders, scrap retailers, 
+and inert buyers, who are involved in sorting, 
+sale and purchase of recyclable materials; 
+4.107. “waste” : means unwanted and unusable materials and 
+is regarded as a substance which is of no use. 
+Waste that we see in our surroundings is also 
+known as garbage. Garbage is mainly 
+considered as a solid waste that includes 
+wastes from our houses (domestic waste), 
+wastes from schools, offices, etc. (municipal 
+wastes) and wastes from industries and 
+factories (industrial wastes).
+
+[Page 20]
+Page 20 of 64 
+ 4.108. “wrapper waste” : means a plastic or other suitable or approved 
+material covering that totally encloses bales or 
+slugs of compacted waste; 
+4.109. “zonal office” : means the office of an administrative zone; as 
+referred in the Mumbai Municipal Act, 1888, 
+which is headed by a Deputy Commissioner of 
+BMC and expressions used in these Bye -laws 
+but not defined shall have the meanings 
+respectively assigned to them in the Mumbai 
+Municipal Corporation Act, 1888; 
+4.110. “zone” : means a geographical area defined by the 
+competent authority; 
+4.111. Words and expressions used herein but not defined, but defined in the 
+Environment (Protection) Act, 1986, the Water (Prevention and Control 
+of Pollution) Act, 1974, Water (Prevention and Control of Pollution) Cess 
+Act, 1977 , the Air (Prevention and Control of Pollution) Act, 1981 and 
+all the Waste Management Rules shall have the same meaning as 
+assigned to them in the respective Acts/Rules.
+
+[Page 21]
+Page 21 of 64 
+ CHAPTER -III (PROHIBITION OF LITTERING, AND OTHER NUISANCES AND 
+ENSURING “CLEAN AANGAN/PREMISES/PLACE” ) 
+5. Prohibition of Littering, and other Nuisances and Ensuring “Clean 
+Aangan/Premises/Place” 
+5.1 Littering on any public/private place: No person shall throw or deposit 
+litter in any occupied/unoccupied/open/vacant public or private place 
+except in authorized public or private litter receptacles. 
+ 
+5.2 Littering from vehicles: No person shall throw or deposit litter upon any 
+street, road, sidewalk, playground, garden, traffic island or other 
+public/private place from any vehicle either moving or parked. 
+ 
+5.3 Litter from waste carriage vehicles: No person shall drive or move any 
+truck or other vehicle filled with litter unless such vehicles are so designed 
+to cover the litter and loaded as to prevent any litter from being blown off 
+or deposited upon any road, sidewalks, traffic islands, playground, garden 
+or other public place. 
+ 
+5.4 Creating Public Nuisance: No person shall cook, bath, spit, urinate, 
+defecate, feed animals / birds or allow their droppings/poop, wash 
+utensils or any other object or keep any type of storage in any public place 
+except in such public facilities or conveni ences specifically provided for 
+any of these purposes. 
+ 
+5.5 Ensuring Clean Aangan / Water Bodies (Open drains, Nallah , lake, ponds 
+, etc) / Shop Premises: Every person shall ensure that any public place in 
+front of or adjacent to any premises owned or occupied by such person 
+including the footpath and open drain/gutter and kerb area are clean or 
+free of any waste, either in solid or liquid form or any polluted matter by 
+any person.
+
+[Page 22]
+Page 22 of 64 
+ CHAPTER -IV (SEGREGATION OF MUNICIPAL SOLID WASTE AND STORAGE 
+AND DELIVERY OF MUNICIPAL SOLID WASTE ) 
+6. Segregation of Municipal Solid Waste 
+6.1 Segregation of waste into separate specified groups: Every generator of 
+Municipal Solid Waste shall separate the waste at source of generation 
+into the following categories as applicable and shall store separately, 
+without mixing it for segregated storage in authorized storage bins, 
+private/public receptacles for handing over or delivering to authorized 
+waste pickers or waste collectors as directed by the BMC from time to 
+time; 
+ 
+6.1.1 Bio-degradable (wet) waste, 
+ 
+6.1.2 Specified domestic hazardous waste, 
+ 
+6.1.3 Pretreated Bio-medical waste (as per applicable rules), 
+ 
+6.1.4 C&D Waste , 
+ 
+6.1.5 Bulk garden and horticulture waste including tree and plant trimmings, 
+ 
+6.1.6 All other non -biodegradable (dry) waste including recyclable and non -
+recyclable waste. Sanitary waste like napkins, diapers, tampons etc . shall 
+be securely wrapped in pouches provided by the manufacturers or brand 
+owners or in suitable wrappers as instructed by the official / authority 
+and shall be stored separately or handing over. 
+ 
+6.1.7 All bulk generators shall manage the waste at their premises as per 
+instructions notified by the BMC from time to time. 
+ 
+6.2 The BMC may separately notify different stages for implementation of the 
+bye-laws taking into account the level of awareness among generators of 
+waste as well as availability of infrastructural support in their operational 
+Local Body. 
+ 
+6.3 The BMC may separately notify from time to time the mandatory colour 
+coding and other specifications of receptacles prescribed for storage and 
+delivery of different types of solid waste to enable safe and easy collection 
+without any mixing or spillage of waste, which generators of different types 
+of solid waste shall have to adhere to. 
+ 
+6.4 The BMC body may ensure arrangements for cleaning daily or at set 
+intervals and all the year through at all the public roads, places, colonies, 
+slums, markets and tourism places, parks under BMC on grounds etc. 
+and the BMC shall collect and carry the garbage from these places door
+
+[Page 23]
+Page 23 of 64 
+ to door or from the nearest garbage bin/container/facility and transport 
+it from there to the final disposal place in closed vehicles. 
+ 
+6.5 The BMC may utilize its own/ outsourced/ contract sanitation workers 
+and vehicles in carrying out sanitation and solid waste management 
+functions for daily cleaning work, so that the urban body is able to keep 
+its area neat and clean in public interest. 
+ 
+6.6 In order to manage the cleaning system of the city, the BMC shall establish 
+a ward office (complaint center) in each administrative ward / a common 
+digital platform or facility to register complaint or suggestion , garbage 
+bin/container , public toilets/urinals, transfer stations to transport the 
+garbage to the processing unit , landfill for final disposal, etc. at suitable 
+places as required . 
+ 
+6.7 A time will be fixed in each area to collect garbage from each 
+house/premises/Aangan. The BMC shall ensure compliance with the 
+timed fixed for any special cleaning purpose. A bell/horn/announcement 
+shall be fitted on the vehicle of garbage collection/blown by worker so that 
+the residents can be made aware of collection being undertaken. 
+7. Storage and Delivery of Municipal Solid Waste 
+7.1 In addition to the provisions of these bye -laws, all generators shall be 
+liable to store solid waste in a manner specified under rules and 
+regulations of the BMC, Central and State Governments , as applicable. 
+ 
+7.2 Bio-degradable waste: Segregated Bio -degradable Municipal Solid Waste 
+(as per the illustrative list in Schedule II SWM Rule 2016 ) if not composted 
+by the generator, shall be stored by them within their premises and its 
+delivery shall be ensured to the municipal worker/vehicle/waste 
+picker/waste collector or to the bio degradable waste collection vehicle 
+provided for specified comme rcial generators of bulk bio -degradable waste 
+at such times as may be notified from time to time. 
+ 
+7.3 Composting by all generators: Local composting of biodegradable waste 
+shall be promoted to minimize transportation of waste. 
+ 
+7.4 Specified household hazardous waste: (as listed in Schedule III) shall be 
+stored separately and delivered by every generator of waste to the 
+collection vehicle, which shall be provided periodically by BMC or any 
+other Agency authorized by the Maharashtra Pollution Control Board 
+(hereinafter referred to as “MPCB”) for collection of such waste, or to a 
+center designed for collection of such waste for disposal in a manner that 
+is mandated by the Government of Maharashtra or MPCB. 
+ 
+7.5 Untreated bio -medical waste: (as listed in Schedule IV) shall be collected
+
+[Page 24]
+Page 24 of 64 
+ & stored in specified type of covered receptacles and delivered by every 
+generator of such waste to the collection vehicle which shall be provided 
+weekly/periodically by BMC or any other Agency authorized by the MPCB, 
+or to a center designated for collection of such waste, for disposal in 
+manner that is mandated by MPCB in accordance with the Bio -Medical 
+Waste (Management & Handling) Rules, 2016. 
+ 
+7.6 All other Non -biodegradable (“Dry”) waste - both recyclable and non -
+recyclable - shall be stored and delivered by every generator of waste to 
+the dry waste collection vehicle, which shall be provided by BMC or its 
+Agents at such spots and at such times as may be notified by them from 
+time-to-time for collection of such waste. 
+ 
+7.7 Construction and Demolition Waste (C&D Waste) : All generators shall 
+store the segregated C&D Waste at such spot as notified by BMC or its 
+agent from time to time, in a location convenient for delivery and 
+collection. Small generators (household level) shall be responsible to 
+segregate the C&D Waste as directed by BMC at source by contacting a 
+local help -line of BMC or avail the “Debris on Call'’ scheme by contacting 
+the ward office or the Agent who shall then send a vehicle to pick up such 
+segregated C&D Wa ste on payment of necessary charges by the said 
+generator and transport this waste to a processing center. The details of 
+local help-line/ “Debris on Call” scheme of BMC shall be available in the 
+Offices of the BMC and on their website. 
+ 
+7.8 Bulk Garden and Horticultural Waste: shall be kept unmixed and 
+composted at source. The BMC shall also notify Instructions/ guidelines 
+with regard to pruning of trees and storage and delivery of tree trimmings 
+including segregated garden and horticultural waste by charging suitable 
+fees as notified by it from time to time, for collection and tra nsport to its 
+facility. 
+ 
+7.9 Burning of waste: Disposal by burning of any type of solid waste at 
+roadsides, or at any private or public property is prohibited.
+
+[Page 25]
+Page 25 of 64 
+ CHAPTER -V (RESPONSIBILITIES AND DUTIES OF GENERATORS, 
+BRIHANMUMBAI MU NICIPAL CORPORATION, AGENTS AND 
+CONTRACTORS ) 
+8. Responsibilities of Agents/Contracto rs of BMC 
+All Contractors/Agents engaged by the BMC shall: 
+8.1 comply with provisions of these bye -laws; 
+8.2 be liable to ensure that their employees/ agents comply with the 
+provisions of these bye -laws. 
+9. Responsibilities and Duties of Generators 
+Every Generator shall as prescribe herein: 
+9.1 segregate all waste at source i.e., where waste is created , in manner 
+prescribed by BMC in section 6 of these Bye Law s ; 
+9.2 collect or cause to be collected , all permitted waste generated and 
+segregated at source within the generator’s premises; 
+9.3 provide and maintain separate receptacles of approved specification, 
+including community bins or litter bins within the generator’s premises, 
+as the case may be, for each category of segregated waste; 
+9.4 Store, and where ever prescribed, label the segregated waste. 
+9.5 ensure that segregated waste is not mixed at any time and is delivered to 
+BMC/ authorized agency in a segregated manner as prescribed by BMC; 
+9.6 Ensure that receptacle used for storage of Solid waste should not be 
+causing or likely to cause nuisance to the public or visible from public 
+street/roads/sidewalks and prevent their scattering by stray animals or 
+birds etc. 
+9.7 Undertake or ensure processing of wet waste at or nearest to the source 
+of generation as may be directed or prescribed by the BMC in accordance 
+with these bye -laws; 
+9.8 To pay notified User Charges as may be directed and in the manner by 
+BMC as per Schedule V. 
+9.9 Be liable for paying fine in case of burning, littering, throwing, burying or 
+dumping solid/ wet waste in any manner or allowing any solid/ wet waste 
+to spill into streets or public areas abutting their properties or accumulate 
+onto or get deposited or flow onto the streets and/or into the storm water 
+drains or water bodies.
+
+[Page 26]
+Page 26 of 64 
+ 9.10 Ensure that any waste generated in public or private areas during special 
+events, festivals, occasions etc. Wet waste during Festivals , Political 
+Events, Rallies, social gatherings, personal events, sports events etc.) 
+shall be duly segregated, stored and delivered in the manner prescribed 
+in these bye -laws or as may be notified by the Commissioner from time to 
+time. 
+9.11 While organizing an event or gathering of more than 50 persons at any 
+unlicensed place or public place, the organizers shall intimate the BMC at 
+least three working days in advance. Further, they shall undertake the 
+segregation and collection of waste no later than 24 hours after the 
+completion of the event an d hand over such wastes to the BMC by paying 
+prescribed user charges to the BMC. 
+9.12 Bulk waste generator shall process wet waste (Bio -degradable waste) to 
+the extent feasible in premises itself and develop a system of reuse of 
+products of processing, that is, compost or biogas etc . 
+9.13 In Case of gated Communities residentia l/ commercial (like Housing 
+society, Commercial complexes) the managing committee/ office bearers 
+of the af oresaid establishment s shall be responsible for ensuring the 
+responsibilities and duties of the generators as mentioned in 9.1 to 9.12. 
+10. Responsibilities of BMC and/or Generators of Waste in Case of Some 
+Specific Categories/Situations 
+Keeping in mind the particular nature of some situations, BMC should 
+extend their responsibilities which are specifically mandated as per by e-
+laws: 
+10.1 The Waste Generator has to pay user charges as per Schedule V and 
+adhere to BMC bye laws . BMC reserves the right to impose fine as per 
+Schedule I on all waste generators . 
+ 
+10.2 Vendor/Hawkers: All vendors/hawkers shall keep their biodegradable 
+and other waste unmixed in containers/ bins at the site of vending for 
+segregated storage of waste generated by that vending activity. It shall be 
+the responsibility of the generator/ vendo r to deliver this waste duly 
+segregated to the Municipal Collection Vehicle of BMC or to the nearest 
+designated community bins. Failing which fine shall be imposed as per 
+the Schedule of Fines. Each Vendor/hawker shall be responsible to 
+maintain their ‘Clean Aangan’. 
+ 
+10.3 House -gullies/Service Lanes: It shall be the responsibility of the 
+owner/occupier of premises within house -gullies to ensure that no waste 
+is dumped or thrown in the house -gully and to segregate and deliver any 
+solid/ wet waste to the waste collection vehicle which shall be provided by 
+BMC at such spots and at such times as may be notified by
+
+[Page 27]
+Page 27 of 64 
+ official/authority. 
+ 
+10.4 Litter by owned/ pet animals: It shall be the responsibility of the owner of 
+any pet animal to promptly scoop/clean up any poop/litter created by any 
+owned/pet animals on the street or any public place, and take adequate 
+steps for the proper disposal of su ch waste by their own sewage or such 
+other sanitary system. 
+ 
+10.5 Public Gatherings and Events: For Public Gatherings and Events, 
+organized in public places for any reason (including for processions, 
+exhibitions, circus, fairs, political rallies, commercial, religious, socio -
+cultural events, protests and demonstrations, etc.) where Police and/or 
+BMC permission is required, it shall be the responsibility of the Organizer 
+of the event or gathering to ensure the cleanliness of that area as well as 
+all appurtenant BMC immediately after the event. 
+ 
+10.6 A Refundable Cleanliness Deposit: The Organizer of the e vent shall pay 
+required deposit, as may be fixed for this purpose by BMC with the 
+concerned office for the duration of the event, which shall be refundable 
+on the completion of the event on notifying that the said public place has 
+been restored back to a clean state, and any waste generated as a result 
+of the event has been col lected and transported to designated sites, to the 
+satisfaction of official/authority concerned. This deposit shall be only for 
+the cleanliness of the public place and does not cover any damage to 
+property. This section shall also, apply to various other events which are 
+being organized outside the Municipal Parks i.e. on roads/lanes etc. In 
+case the Organizers of the event wishes to avail of the services of BMC for 
+the cleaning, collection and transport of waste generated as a result of 
+that event, they shall apply in advance to the concerned office of BMC and 
+pay the necessary charges in advance as may be fixed for this purpose b y 
+BMC. 
+ 
+10.7 Receptacles on private property: Every owner or occupant of private 
+property shall maintain authorized refuse receptacles on private premises 
+provided the receptacles are neither encroaching public street/roads and 
+sidewalks nor accessible to animals. 
+ 
+10.8 All vehicles used for services related to solid waste management 
+department shall be mandated to be equipped with a n approved vehicle 
+tracking system irrespective of the ownership of the vehicle by BMC/ 
+Contractor/ Agency , ensuring compatibility with future monitoring 
+systems." 
+10.9 Other public places: The Government / Semi -government, statutory 
+bodies shall be responsible for implementation of these Bye -laws within 
+the public premises owned/occupied by them.
+
+[Page 28]
+Page 28 of 64 
+ CHAPTER -VI 
+(I) SOLID WASTE 
+11. Management of Solid Waste 
+11.1 Definitions: Words and expressions used herein but not defined in BMC 
+BYE Laws, but defined in the Solid Waste (Management) Rules, 2016 shall 
+have the same meaning as assigned to them in the respective Acts. 
+ 
+11.2 “Waste Generator” means and includes every person or group of persons , 
+every residential premise , non-residential establishments including 
+Indian Railways, Defense Establishments, etc. which generate solid waste. 
+ 
+11.3 Generator shall: 
+ 
+11.3.1 Segregate and store the waste generated by them in separate stream 
+namely bio -degradable, non -biodegradable and domestic hazardous and 
+any other wastes in suitable bins and handover segregated wastes to 
+authorized waste pickers waste collectors as per the direction pr 
+notification by BMC or the competent authority from time to time. 
+ 
+11.3.2 Wrap securely the used sanitary waste like diapers, sanitary pads etc., 
+in the pouches provided by the manufacturers or brand owners of these 
+products or in suitable warping material as instructed by the local 
+authorities shall place the same in the bin me ant for dry waste or non -
+biodegradable waste; 
+ 
+11.3.3 Store separately the construction and demolition waste, as in when 
+generated in his own premise and dispose as per the Construction And 
+Demolition Waste Management Rules 2016; and store horticulture waste 
+and garden waste generated from his premises separa tely in his own 
+premises and dispose of as per the directions from BMC from time to 
+time. 
+ 
+11.4 No waste generator shall throw, burn, or burry any solid waste generated 
+by him on the streets, open public spaces outside the premises or in drain 
+or in water bodies. All waste generators shall pay such user fee for solid 
+waste management rules as specified in the bye laws of BMC. 
+ 
+11.5 No person shall organize an event or gathering of more than one hundred 
+persons at any unlicensed place without intimating the BMC, at least 
+three working days in advance and such person or the organizer of such 
+event shall ensure segregation of waste at source and handing over of 
+segregated waste to waste collector or agency as specified by BMC. 
+ 
+11.6 Every street vendor shall keep suitable containers for storage of waste
+
+[Page 29]
+Page 29 of 64 
+ generated during the course of his activity such as food waste, disposable 
+plates, cups, cans, wrappers, coconut shells, leftover food, vegetables, 
+fruits, etc., and shall deposit such waste at waste storage depot or 
+container or vehicle as notified by BMC . 
+ 
+11.7 All gated communities and institutions with more than 5,000 sqm area 
+shall ensure segregation of waste at source by the generators as 
+prescribed in Solid Waste Management Rules 2016; facilitate collection of 
+segregated waste in separate streams, handover r ecyclable material to 
+either the authorized waste pickers or the authorized recyclers. The bio -
+degradable waste shall be processed, treated and disposed off through 
+composting or bio -methanation or any other scientifically approved 
+process within the premi ses as far as possible. The residual waste shall 
+be given to the waste collectors or agency as directed by the BMC. 
+ 
+11.8 All hotels and restaurants shall ensure segregation of waste at source as 
+prescribed in Solid Waste Management Rules 2016, facilitate collection of 
+segregated waste in separate streams, handover recyclable material to 
+either the authorized waste pickers or the authorized recyclers. The bio -
+degradable waste shall be processed, treated and disposed off by such 
+hotels and restaurants through composting or bio -methanation or any 
+other scientifically approved process within the premises as far as 
+possible. The r esidual waste shall be given to the waste collectors or 
+agency as directed by the BMC. 
+12. Materials Recovery Facilities (MRFs) 
+12.1. Bulk Generators o f non-biodegradable waste sha ll set-up and maintain 
+their own MRFs (i. e. sorting sheds) or give the residual waste to the waste 
+collectors or agency in accordance with any conditions laid down by BMC . 
+ 
+12.2. The Authorized operator of all MRFs shall comply to the following: 
+ 
+12.2.1. MRFs can accept segregated Dry Waste / Non -Biodegradable Waste; 
+ 
+12.2.2. MRFs will not accept any mixed waste , biodegradable waste, Wet Waste, 
+construction and Demolition Waste, Domestic/ Commercial Hazardous 
+Waste etc. unless specifically notified by BMC after provision of separate 
+adequate facilities for such categories of wast e in accordance with the 
+provisions, standards and specifications under these Bye -Laws and 
+other applicable Rules; 
+ 
+12.2.3. MRFs shall have adequate space and facilities for: 
+ 
+12.2.4. Accepting dry waste from collection vehicles/ waste -collectors/ agents ;
+
+[Page 30]
+Page 30 of 64 
+ 12.2.5. Sorting, baling, pac king and required equipment's etc . and tem porary 
+storage of dry wast e; 
+ 
+12.2.6. Appropriate and separate receptacles for temporary storage of inert 
+waste, non -recyc lable wast e, non-reusable waste and for other 
+categories of waste for which facilities have been provided; 
+ 
+12.2.7. Transfer to secondary collection of inert, non -recyclable, non -reusable 
+dry waste and for other categories of waste for which facilities have been 
+provided . 
+ 
+12.2.8. MRFs shall have adequate utilities to ensure smooth of functioning and 
+to avoid unhygienic conditions, nuisance to public or to waste -pickers/ 
+workers within the facility, including: 
+ 
+12.2.8.1. Water for Drinking and Washing; 
+ 
+12.2.8.2. Washing Area/Toilets; 
+ 
+12.2.8.3. Electricity and appropriate equipment for handling of waste; 
+ 
+12.2.8.4. Storage Compartments/ Closets for Tools' clothes etc.; 
+ 
+12.2.8.5. Fire Safety Equipment as may be prescribed ; 
+ 
+12.2.8.6. Sanitization/ disinfection and Cleaning of MR Fs, esp ecially 
+sections where Domestic / Hazardous Waste is temporarily 
+stored. 
+ 
+12.2.9. MRFs shall be constructed within delineated premises; 
+ 
+12.2.10. Waste -Pickers, informal waste traders or operators of any MR Fs shall 
+ensure that all recyclable waste shall enter the recycling stream and that 
+only inert, non -recyclable, domestic/ hazardous and non -reusabl e waste 
+rejected from the facility is transferred to BMC facility for further 
+processing or dispos al.
+
+[Page 31]
+Page 31 of 64 
+ (II) BIO-MEDICAL WASTE 
+13. Management of Bio -Medical Waste 
+13.1 Definitions: Words and expressions used herein but not defined BMC BYE 
+Laws, but defined in the Bio Medical Waste (Management) Rules, 2016 
+shall have the same meaning as assigned to them in the respective Acts. 
+ 
+13.1.1 “Authorization” : means the permission granted by BMC for the 
+generation, collection, reception, storage, 
+transportation, treatment, processing, disposal 
+or any other form of handling of bio -medical 
+waste in accordance with these rules and 
+guidelines issued by the central government or 
+Central Pollution Control Board; 
+13.1.2 “Authorized 
+person” : means an occupier or operator authorized by 
+the prescribed authority to generate, collect, 
+receive, store, transport, treat, process, dispose 
+or handle bio -medical waste in accordance 
+with these rules and the guidelines issued by 
+the Central Government or the Maharashtra 
+Pollution Control Board as the case may be; 
+13.1.3 “Bio-medical 
+waste treatment 
+and disposal 
+facility” : means any facility wherein treatment, disposal 
+of bio medical waste or processes incidental to 
+such treatment and disposal is carried out, and 
+includes bio medical waste treatment facilities; 
+13.1.4 “Bio-medical 
+Waste” : means any waste, which is generated during 
+the diagnosis, treatment or immunization of 
+human beings or animals or research activities 
+pertaining thereto or in the production or 
+testing of biological or in health camps; 
+13.1.5 “BWTF” : means a Bio -medical Waste Treatment Facility 
+appointed by BMC for collection, 
+transportation, storage, treatment, processing, 
+disposal or handling of bio -medical waste in 
+the whole or any part of its geographical 
+jurisdiction; 
+13.1.6 “Generator” : include all persons who generate, collect, 
+receive, store, transport, treat, dispose or 
+handle bio -medical waste in any form including 
+hospitals, nursing homes, clinics, 
+dispensaries, consultants, Ayurveda/
+
+[Page 32]
+Page 32 of 64 
+ Homeopathy/ Naturopathy practitioners, 
+pharmacy/ pharmacist, veterinary hospital/ 
+clinic/ college/ institution, animal house, 
+pathological laboratory, blood bank, autopsy 
+centers, ayush hospitals, mortuaries, medical 
+colleges, forensic laboratories, medica l 
+research and animal research institutes, 
+immunization centers, medical/ health/ blood 
+donation/ vaccination camps, first aid rooms 
+of schools, tattoo shops et c.; 
+13.1.7 “Occupier” : in relation to any Generator means a person 
+who has administrative control over the 
+Generator and/or its premises; 
+13.1.8 “Operator of 
+BWTF” : means a person who owns or controls or 
+operates a BWTF; 
+13.1.9 “Rules” : means the Bio -Medical Waste Management 
+Rules, 2016 as may be amended from time to 
+time. 
+13.2 Duties of Occupier: 
+13.2.1 No Occupier shall carry on any activity generating bio -medical waste 
+unless the Generator has been duly registered with BMC as a generator 
+of bio -medical waste ; 
+13.2.2 Occupier has to take all necessary steps to ensure that bio -medical waste 
+is handled without any adverse effect to human health and the 
+environment in accordance with the Bio -medical Waste Management 
+Rules, 2016 ; 
+13.3 After coming into force of these bye -laws, BMC shall not grant or renew, 
+as the case may be, any license to operate under the MMC Act in respect 
+of a Generator unless the Generator has been registered in accordance 
+with this chapter; 
+ 
+13.4 Duties of Generator: Every Generator shall: 
+ 
+13.4.1 create a waste management plan with such details as may be prescribed 
+by BMC; 
+13.4.2 register as a generator of bio -medical waste with Operator of BWTF and 
+BMC;
+
+[Page 33]
+Page 33 of 64 
+ 13.4.3 pay such charges as may be notified by BMC or any BWTF appointed by 
+it, including charges for: 
+13.4.3.1 Registration as a bio -medical waste generator with BMC, which may 
+include an advance against charges for collection and treatment of bio -
+medical waste by the Operator of BWTF ; 
+ 
+13.4.3.2 Collection and treatment of bio -medical waste by the Operator of BWTF. 
+13.4.4 purchase of such receptacles (including non -chlorinated bags), as may 
+be duly specified by the Commissioner, for temporary storage at point of 
+generation, from any person authorized by the commissioner in this 
+behalf including the Operator of BWTF; 
+13.4.5 segregate, store, pre -treat and deliver bio -medical waste to the Operator 
+of BWTF at the time and place and in the manner prescribed by BMC or 
+the Operator of BWTF; 
+13.4.6 segregate, store, deliver and dispose all other waste in the manner 
+prescribed under the respective waste management rules and bye -laws; 
+13.4.7 report every incidence of failure to collect bio -medical waste by Operator 
+of BWTF to BMC; 
+13.4.8 maintain daily records of total bio -medical waste generated, delivered, 
+treated, disposed or otherwise handled; 
+13.4.9 undertake adequate precautions to address any accident with respect to 
+bio-medical waste; 
+13.4.10 undertake appropriate training, immunization and annual health 
+check -ups of all workers handling bio -medical waste and submit report 
+thereof to BMC ; 
+13.4.11 provide appropriate and adequate personal protective equipment to 
+workers in accordance with any guidelines prescribed in this behalf; 
+13.4.12 establish a bar -code system for bags or containers containing bio -
+medical waste; 
+13.4.13 ensure that bio -medical waste and other hospital waste is not delivered 
+to any unauthorized person; 
+13.4.14 subm it a copy of the Annual Report filed with the MPCB to BMC. 
+13.5 BWTF Operator’s Duties: The Operator of BWTF shall: 
+13.6.1 obtain all requisite authorizations under the Water (Prevention and 
+Control of Pollution) Act, 1974, the Air (Prevention and Control of
+
+[Page 34]
+Page 34 of 64 
+ Pollution) Act, 1981, prior environmental clearance under the 
+Environment Impact Assessment Notification, 2020 and other 
+applicable laws prior to commencement of operations; 
+13.6.2 unless otherwise specified by BMC, undertake daily collection of bio -
+medical waste, including holidays: 
+13.6.2.1 from every Generator registered with BMC for disposal of bio -medical 
+waste through CBWTF; 
+13.6.2.2 from each Collection Point specified by BMC from time to time, 
+including MRFs, Waste Management Facilities, satellite storage/ 
+collection point etc.; 
+13.6.2.3 from households where necessary; 
+13.6.2.4 using vehicles equipped with GPS or other technological tracking 
+device . 
+13.6.3 not collect unsegregated bio -medical waste from any Generators; 
+13.6.4 maintain daily records of different categories of bio -medical waste 
+collected, transported, treated, disposed and otherwise handled, failure 
+to segregate by individual Generators, unauthorized handling of bio -
+medical waste by any person etc. and report to BMC on a weekly basis; 
+13.6.5 undertake appropriate training, immunization and quarterly health 
+check -ups of all workers handling bio -medical waste; 
+13.6.6 provide appropriate and adequate personal protective equipment to 
+workers in accordance with any guidelines prescribed in this behalf; 
+13.6.7 not sell or deliver treated bio -medical waste or treated - recyclable waste 
+to any person other than an operator of a recycling, processing or 
+disposal facility duly authorised by the MPCB or any other prescribed 
+authority, as the case may be ; 
+13.6.8 not handle or dispose any incineration ash or other by -product/residue 
+of processing otherwise than in accordance with the bye -laws, the 
+Hazardous and Other Wastes (Management and Trans boundary 
+Movement) Rules, 2016 or any guidelines prescribed in this be half by 
+the CPCB or any other prescribed authority; 
+13.6.9 supply non -chlorinated plastic -colored bags to occupiers / generators 
+on chargeable basis, if required; 
+13.6.10 establish bar -coding and global positioning system for handling bio -
+medical waste;
+
+[Page 35]
+Page 35 of 64 
+ 13.6.11 maintain records of each Generator registered with the BWTF including 
+registration details, frequency of bio -medical waste disposal, quantum 
+of bio -medical waste generated etc. and such other records as may be 
+directed by the Commissioner from time to time; 
+13.6.12 submit a copy of all reports filed with the MPCB to BMC or such other 
+documents as may be directed by the Commissioner from time to time; 
+13.6.13 allow for inspection by an authorised official of BMC pursuant to these 
+bye-laws and the Environment (Protection) Act, of the BWTF or any 
+equipment, vehicles, staff or premises used by the Operator of BWTF for 
+handling of bio -medical waste ; 
+13.6.14 report any untoward incident or accident during collection, 
+transportation, storage, segregation, treatment, processing, disposal or 
+any other handling of bio -medical waste which may cause reasonable 
+apprehension of injury to the public, environment or hum an health ; 
+13.6.15 be solely liable for any damage or injury to the public, property, 
+environment or human health arising out any breach of the Bye -laws or 
+any accident or any improper collection, transportation, storage, 
+segregation, treatment, processing, disposal or any o ther handling of 
+bio-medical waste.
+
+[Page 36]
+Page 36 of 64 
+ 
+(III) E-WASTE 
+14. Management of E -Waste 
+14.1 Definition: Words and expressions used herein but not defined BMC BYE 
+Laws, but defined in the, E -Waste (Management) Rules, 2016 shall have 
+the same meaning as assigned to them in the respective Acts ; 
+14.1.1 In this Chapter, unless the context otherwise requires ‘Zero E -Waste’ 
+means zero land filling of e -waste, i.e. 100% management of e -waste 
+through increased reduction, segregation, reuse, efficient collection, safe 
+handling, monitoring and channelization to authorized collection 
+centers, dismantlers or recyclers ; 
+14.1.2 “authorisation” means permission for generation, handling, collection, 
+reception, storage, transportation, refurbishing, dismantling, recycling, 
+treatment and disposal of e -waste, granted to manufacturer, dismantler, 
+refurbisher and recycler” ; 
+14.1.3 “collection centre” means centre or a collection point or both established 
+by producer individually or as association jointly to collect e -waste for 
+channelizing the e -waste to recycler and play such role as indicated in 
+the authorization for extended producer responsibility granted to t he 
+producer and having facilities as per the guidelines of Central Pollution 
+Control Board, including the collection centre established by the 
+Dismantler or Refurbisher or recycler which should be a part of the 
+authorization issued by the State Pollution C ontrol Board where the 
+facility exists ; 
+14.1.4 “consumables” means an item which participates in or is required for a 
+manufacturing process or for functioning of the electrical and electronic 
+equipment and may or may not form part of end -product Items, which 
+are substantially or totally consumed during a manufacturing process, 
+shall be deemed to be consumables; 
+14.1.5 “consumer” means any person using electrical and electronic equipment 
+excluding the bulk consumers ; 
+14.1.6 “channelization” means to direct the path for movement of e -wastes from 
+collection onwards to authorized dismantler or recycler. In case of 
+fluorescent and other mercury containing lamps, where recyclers are not 
+available this means path for movement from collection centre to 
+Treatment, Storage and Disposal Facility; 
+14.1.7 “dealer” means any individual or firm that buys or receives electrical and
+
+[Page 37]
+Page 37 of 64 
+ electronic equipment as listed in E -waste Management Rules and their 
+component or consumables or parts or spares from producers of sale; 
+14.1.8 “dismantler” means any person or organization engaged in dismantling 
+of used electrical and electronic equipment into their components having 
+facilities as per the guidelines of Central Pollution control Board and 
+having authorization from concerned State Pollution Control Board ; 
+14.1.9 “disposal” means any operation which does not lead to recycling, 
+recovery or reuse and includes physico chemical or biological treatment, 
+incineration in secured landfill; 
+14.1.10 “e-waste” means electrical and electronic equipment whole or in part 
+discarded as waste by the consumer or bulk consumer as well as rejects 
+from manufacturing, refurbishment, and repair processes ; 
+14.1.11 “facility” means any location wherein the process incidental to the 
+collection, reception, storage, segregation, refurbishing, dismantling, 
+recycling, treatment and disposal of e -waste are carried out; 
+14.1.12 “manufacturer” means a person or an entity or a company as defined in 
+the Companies Act, 2013 (18 of 2013) or a factory as defined in the 
+Factories Act, 1948 (63 of 1948) or Small and Medium Enterprises as 
+defined in Micro, Small and Medium Enterprises Development Act, 2006 
+(27 of 2006), which has facilities for manufacture of electrical and 
+electronic equipment; 
+14.1.13 “producer” means any person who, irrespective of the selling technique 
+used such as dealer, retailer, e -retailer, etc.; 
+14.1.13.1. manufactures and offers to sell electrical and electronic equipment 
+and their components or consumables or parts or spares under its 
+own brand; or 
+ 
+14.1.13.2. offers to sell under its own brand, assembled electrical and electronic 
+equipment and their components or consumables or parts or spares 
+produced by other manufacturers or suppliers; or 
+ 
+ 
+14.1.13.3. offers to sell imported electrical and electronic equipment and their 
+components or consumables or parts or spares; 
+14.1.14 “recycler” means any person who is engaged in recycling and 
+reprocessing of waste electrical and electronic equipment or assemblies 
+or their components; 
+14.1.15 Duties of Manufacturer: A manufacturer shall:
+
+[Page 38]
+Page 38 of 64 
+ 14.1.15.1 ensure segregation, sorting, storage and channelization of e -waste 
+generated during the manufacture of any electrical and electronic 
+equipment to authorized collection centers, dismantlers or recyclers 
+in accordance with the rules and bye -laws; 
+ 
+14.1.15.2 obtain authorization from the MPCB in accordance of the E -waste 
+Management Rules, 2016; 
+ 
+14.1.15.3 ensure that no damage is caused to the environment during storage 
+and transportation of e -waste; 
+14.1.16 Duties of Producers/Dismantlers/Recyclers: 
+14.1.17 Producer shall: 
+14.3.1 ensure segregation, sorting, storage and channelization of e -waste to 
+authorized collection centers, dismantlers or recyclers in accordance 
+with the E -waste Management Rules, 2016; 
+14.3.2 store the generated e -waste in such manner as prescribed by the BMC 
+and as per the E -waste Management Rules, 2016 for a period not 
+exceeding one hundred and eighty days and shall maintain a record of 
+collection, sale, transfer and storage of wastes and mak e these records 
+available for inspection; 
+14.3.3 be responsible for ensuring that E -waste pertaining to orphaned 
+products is collected and channelized to authorized dismantler or 
+recycler; 
+14.3.4 In the case the dealer has been given the responsibility of collection on 
+behalf of the producer, the dealer shall collect the e -waste by providing 
+the consumer a box, bin, or a demarcated area to deposit e -waste, or 
+through take back system and send e -waste so collected to collection 
+center or dismantler or recycler as designated by the producer. 
+14.1.18 Dismantler Shall: 
+14.1.18.1 Ensure that the facility and dismantling processes are in accordance 
+with the standards or guidelines prescribed by Central Pollution 
+Control Board from time to time; 
+14.1.18.2 store the generated e -waste in such manner as prescribed by the 
+BMC and as per the E -waste Management Rules, 2016 for a period 
+not exceeding one hundred and eighty days and shall maintain a 
+record of collection, sale, transfer and storage of wastes and mak e 
+these records available for inspection;
+
+[Page 39]
+Page 39 of 64 
+ 14.1.18.3 Obtain authorization from the concerned state pollution Control 
+Board in accordance of the E waste Management Rules 2016 and 
+also ensure that no damage is caused to the environment during the 
+storage and transportation of e -waste ; 
+14.1.18.4 Ensure that dismantling processes do not have any adverse effect on 
+the health and the environment and also ensure that e -waste are 
+segregated and sent to the authorized recycling facilities for recovery 
+of materials; 
+14.1.18.5 Ensure that non -recyclable or non -recoverable components are sent 
+to the authorized treatment storage and disposal facilities and to 
+record e -waste collected, dismantled and sent to the authorized 
+recycler in Form -2 of the E -waste management Rules 2016 and make 
+such record available for scrutiny by the central Pollution Control 
+Board and the concerned state Pollution Control Board ; 
+14.1.18.6 Dismantler should not process any E waste for recovery or refining 
+of materials, unless he is authorized with concerned State Pollution 
+control Board as are recycler for refining and recovery of materials; 
+14.1.18.7 Operation without authorization by any dismantler as defined in the 
+Bye laws shall be considered as causing damage to the environment. 
+14.1.19 Recycler Shall: 
+14.1.19.1 ensure that the facility and recycling processes are in accordance 
+with the standards or guidelines prescribed by competent authority 
+from time to time; 
+14.1.19.2 store the generated e -waste in such manner as prescribed by the 
+BMC and as per the E -waste Management Rules, 2016 for a period 
+not exceeding one hundred and eighty days and shall maintain a 
+record of collection, sale, transfer and storage of wastes and mak e 
+these records available for inspection; 
+14.1.19.3 Obtain authorization from concerned State Pollution Control Board 
+in accordance with the procedure under the Sub -Rule (3) of Rule 13; 
+14.1.19.4 Ensure that no damage is caused to the environment during the 
+storage and transportation of E -waste and to ensure the recycling 
+processes do not have any adverse effect on the health and the 
+environment; 
+14.1.19.5 Make available all records to the BMC or the competent authority for 
+inspection ;
+
+[Page 40]
+Page 40 of 64 
+ 14.1.19.6 Ensure that the fractions or material not recycled process is disposed 
+of in and authorized treatment storage disposal facility and operating 
+without authorization would be considered as causing damage to the 
+environment.
+
+[Page 41]
+Page 41 of 64 
+ (IV) CONSTRUCTION AND DEMOLITION WASTE 
+15. Management of Construction and Demolition Waste (C & D Waste) 
+15.1 Definitions: Words and expressions used herein but not defined in BMC 
+BYE Laws, but defined in the Construction and Demolition (Management) 
+Rules, 2016 shall have the same meaning as assigned to them in the 
+respective Acts ; 
+15.1.1 “Construction and Demolition Waste” means the waste comprising of 
+building materials, debris and rubble resulting from construction, 
+remodeling, repair and demolition of any civil structure; 
+15.1.2 “Authorized C&D Agency” means an agency authorised by BMC to collect, 
+transport and dispose the C&D Waste within a specific area; 
+15.1.3 “Designated Disposal Site/Processing facility” means any site approved by 
+BMC for the safe disposal of C&D Waste. A designated disposal site may 
+be a public site managed by BMC or a private site that is approved by 
+BMC for a specific time period and/or for a specific quantity of C&D Waste 
+that can be deposited at that location; 
+15.1.4 “Public Site/Processing Facility” or “public designated disposal 
+site/processing Facility” is a site located on land owned or controlled by 
+BMC which is approved for disposal of C&D Waste and shall be available 
+for the disposal of C&D Waste by BMC, an agen cy authorized by it or C&D 
+generators themselves subject to conditions specified herein ; 
+15.1.5 “Private Site” means any private land whose owner wishes to allow 
+disposal of C&D Waste subject to approval of BMC. ; 
+15.1.6 “C&D Waste Management Plan” means a prescribed document which is to 
+be submitted to and approved by BMC by Category I, Category II and 
+Category III C&D Waste generators that should include the quantum of 
+C&D Waste expected to be generated, the quantum of waste that will be 
+re-used or recycled and the quantum that will be transported to a 
+designated disposal site/s ; 
+15.1.7 “Authorized C&D Transport agency” means an authorized C&D agency or 
+any other agency that has been granted permission to transport C&D 
+Waste at a specific site for a specified time period; 
+15.2 “Types of Generators: With respect to each project/ site where C&D waste 
+may be generated: 
+15.2.1 Category I - all agencies, private or public, that carry out works that 
+require the approval of BMC;
+
+[Page 42]
+Page 42 of 64 
+ 15.2.2 Category II - all contractors that are engaged by BMC for carrying out 
+public works; and work undertaken by BMC itself ; 
+15.2.3 Category III - all those carrying out works that does not require any prior 
+permission or approval of BMC; 
+15.3 Responsibility of all generators: 
+15.8.1 Any C&D Waste generated must be kept segregated in containers or in 
+gunny bags or in a manner approved by BMC and either the service 
+provided by BMC must be engaged for its pickup or it must be deposited 
+at a designated disposal site or at a transit station in a m anner and within 
+such time limit as prescribed by BMC ; 
+ 
+15.8.2 All Generators shall segregate and store segregated C&D Waste in the 
+following manner: 
+15.8.2.1 Waste shall be segregated into concrete, soil, steel, wood and plastic, 
+bricks and mortar or as may be notified by BMC to facilitate recovery 
+and recycling of such material ; 
+ 
+15.8.2.2 Segregated waste shall be stored within the premises with adequate 
+protection from erosion and scattering, in a manner that does not 
+cause inconvenience to the public, passer -by or nearby residents / 
+occupants of nearby premises or which may cause obstruct ion to the 
+traffic or public or drains ; 
+ 
+15.8.2.3 Those materials which can be reused at the site for construction, land -
+filling, road paving etc. shall be kept separately from other C&D Waste ; 
+ 
+15.8.2.4 In case of C&D Waste generated from utility services like road 
+construction, water pipes, underground cables and pipelines, the 
+concerned department and/or contractor shall store the waste without 
+causing inconvenience to the public passer -by or nearby occupants of 
+premises a nd shall be disposed of by following due procedure ; 
+15.4 Responsibility of specific generators: 
+15.9.1 All Category I generators must submit a C&D Waste Management Plan 
+along with the fees assessed and carry out the disposal of the C&D Waste 
+as per the waste management plan, failing which they shall be levied a 
+fine; 
+15.9.2 All Category II generators must submit a C&D Waste Management Plan 
+before commencement of work and adhere to the terms and conditions 
+of the plan as submitted and approved by BMC ;
+
+[Page 43]
+Page 43 of 64 
+ 15.9.3 All Category III generators must submit a C&D Waste Management Plan 
+along with the fees assessed and carry out the disposal of the C&D Waste 
+as per the waste management plan, failing which they shall be levied a 
+fine; 
+15.9.4 In event of identification of a defaulting C&D waste generator post 
+completion of development work, etc. the following measures will be 
+deployed to penalise the offender retrospectively ; 
+15.9.5 A committee consisting of the following members shall be formed to 
+estimate the quantity of C&D waste generated and transported 
+unauthorized: 
+15.9.5.1. Land Owner / HOD in case of governmental works, Zonal Executive 
+Engineers, Assistant Engineers (SWM) Ward, Deputy Chief Engineer 
+SWM Operation ; 
+ 
+15.9.5.2. The committee’s decision upon the quantum of C&D Waste identified 
+shall be final and binding upon the developers / contractors.
+
+[Page 44]
+Page 44 of 64 
+ CHAPTER -X BULK GARDEN AND HORTICULTURAL WASTE 
+16. Management of Bulk Garden Waste and Horticultural Waste 
+16.1 Burning of bulk garden and horticultural waste within BMC limits is 
+strictly prohibited and will be subject to charges as specified in these Bye -
+laws; 
+16.2 The collection and appropriate disposal of garden waste from private 
+properties, including such waste scattering/ falling onto adjoining streets 
+or public property is the responsibility of the property owner or 
+cooperative society or institution etc. as th e case may be and if found to 
+be accumulated on the streets shall be deemed to be littering by the 
+appropriate authority (Empowered officer) ; 
+16.3 In case of any instance of littering, the empowered officer shall issue one 
+notice to the property owner for clearance of such litter within a specified 
+time upon expiry of which charges will be imposed in accordance with 
+these Bye -laws; 
+16.4 Generators of bulk garden waste and horticultural waste shall: 
+16.4.1 set up in -situ composting, bio -methanation or other suitable processing 
+facilities within their own premises, including shredders if necessary, so 
+as to minimize the load on BMC ; 
+16.4.2 in the event, processing of bulk garden waste is not possible in -situ due 
+to land or other constraints, such waste shall be separately stored in 
+large bags or bins on site with adequate protection from scattering or in 
+any other manner that does not cause inconvenience to the public and 
+delivered to the designated collection vehicle or collection point that is 
+either arranged by BMC on a periodic basis or is available on demand 
+by the generator as specified by BMC . 
+16.5 BMC shall seek to process at source garden waste and horticultural waste 
+generated by departments or institutions within its control ; 
+16.6 BMC may notify and provide services for collection, transportation and 
+processing of bulk garden and horticultural waste, on -site or pre -
+processing shredding of branches etc. for such fee as may be notified by 
+BMC from time to time. The Solid Waste Managem ent charge imposed by 
+BMC shall not include charges (if any) for collection of Bulk Garden and 
+Horticultural Waste ;
+
+[Page 45]
+Page 45 of 64 
+ CHAPTER -XI PLASTIC WASTE 
+17. Management of Plastic Waste 
+17.1 Words and expressions used herein but not defined BMC BYE Laws, but 
+defined in the, Plastic -Waste (Management) Rules, 2016 shall have the 
+same meaning as assigned to them in the respective Acts ; 
+17.1.1 “brand owner” means a person or company who sells any commodity 
+under a registered brand label; 
+17.1.2 “carry bags”: mean bags made from any plastic material or 
+compostable plastic material, used for the purpose of carrying or 
+dispensing commodities, which have a self -carrying features, but do 
+not include bags that constitute or form an integral part of the 
+packaging in which goods are sealed prior to use. The same to be in 
+compliance with rules and regulations in respect of specifications of 
+plastic bags; 
+17.1.3 “commodity” means a tangible item that may be bought or sold and 
+includes all marketable goods or wares; 
+17.1.4 “compostable plastics” mean plastic that undergoes degradation by 
+biological processes during composting to yield CO2, water, 
+inorganic compounds and biomass at a rate consistent with other 
+known compostable materials, excluding conventional petro -based 
+plastics, and does not leave visible, distinguishable or toxic residue; 
+17.1.5 “food -stuff” means ready to eat food products, fast foods, processed 
+or cooked food in liquid, powder, solid or semi -solid form; 
+17.1.6 “importer” means a person who imports or intends to import and 
+holds an Importer - Exporter Code number, unless otherwise 
+specifically exempted; 
+17.1.7 “institutional waste generator” means and includes occupiers of 
+institutional buildings such as buildings occupied by Central/ State/ 
+Local Government Departments, public or private sector companies, 
+hospitals, schools, colleges, universities or other plac es of education, 
+organization, academy, hotels, restaurants, malls and shopping 
+complexes; 
+17.1.8 “manufacturer” means and include a person or unit or agency 
+engaged in production of plastic raw material including inter alia 
+granules, resins and additives and other materials, which are used 
+or are to be used as raw material for the manufacture of plast ics by 
+the producer ;
+
+[Page 46]
+Page 46 of 64 
+ 17.1.9 “multi -layered packaging” means any material used or to be used for 
+packaging and having at least one layer of plastic as the main 
+ingredients in combination with one or more layers of materials such 
+as paper, paper board, polymeric materials, metalized la yers or 
+aluminium foil, either in the form of a laminate or co -extruded 
+structure; 
+17.1.10 “non-institutional waste generator” means individual households, 
+apartments, complexes and residential areas ; 
+17.1.11 “organized retailers” means trading activities undertaken by licensed 
+retailers, that is, those who are registered for sales tax, income tax, 
+etc. These include the corporate -backed hypermarkets and retail 
+chains, and also the privately owned large retail businesses ; 
+17.1.12 “plastic” means material which contains as an essential ingredient a 
+high polymer such as Polyethylene Terephthalate (PET), High Density 
+Polyethylene (HDPE), Vinyl (PVC), Low Density Polyethylene (LDPE), 
+Polypropylene (PP), Polystyrene Resins (PS), multi materials like 
+Acrylonitrile Butadiene Styrene (ABS), Polyphenylene Oxide (PPO), 
+polycarbonate (PC), Polybutylene terephthalate (PBT) etc. The same 
+to be in compliance with rules and regulations in respect of 
+specifications of plastic bags; 
+17.1.13 “Plastic sheet” means sheet made of plastic; 
+17.1.14 “Plastic waste” means any plastic discarded after being used; 
+17.1.15 “Plastic Waste Collection Centre” means a facility where plastic waste 
+can be temporarily stored by BMC or any agency authorised by any 
+of them to facilitate segregation, sorting and recovery of plastic from 
+various components of plastic waste by waste pic kers, before the 
+waste is delivered or taken up for its processing or disposal; 
+17.1.16 “producer” means persons engaged in manufacture or import of carry 
+bags or multilayered packaging or plastic sheets or like, and includes 
+industries or individuals using plastic sheets or like or covers made 
+of plastic sheets or multilayered packaging for packaging or wrapping 
+the commodity; 
+17.1.17 “PWM System” means the Plastic Waste Management System as 
+defined in this chapter ; 
+17.1.18 “Recycler” means a unit, agency or entity, which engages in recycling, 
+and includes units, agencies or entities engaging in the flaking of 
+plastic ;
+
+[Page 47]
+Page 47 of 64 
+ 17.1.19 “Scrap Shop” means shops or agencies that purchase the recyclable 
+waste products from waste pickers and others, aggregate it, process 
+it and further sell it to waste recyclers ; 
+17.1.20 “Stakeholders” includes, unless the context requires otherwise, the 
+following persons: 
+17.1.21.1 Manufacturers; 
+17.1.21.2 Producers and brand owners; 
+17.1.21.3 Organized and un -organized retailers; 
+17.1.21.4 Waste generators; 
+17.1.21.5 Waste pickers; 
+17.1.21.6 Recyclers. 
+17.1.21 Un-organized retailers” means traditional formats of low -cost 
+retailing, for example, the local grocery shops, owner manned general 
+stores, paan/ beedi shops, convenience stores, hand cart and 
+pavement vendors, etc. ; 
+17.1.22 “Virgin plastic” means plastic material which has not been subjected 
+to use or recycling earlier and has also not been blended with scrap 
+or waste; 
+17.1.23 “Zero Plastic”: Zero Plastic means zero land filling of plastic waste, 
+i.e. 100% management of plastic waste through reduction, reuse, 
+recycling and recovery of plastic waste ; 
+17.1.24 “Waste Generator” means and includes every persons or group of 
+persons or institution, residential and comm ercial establishments 
+including Indian Railways, Airport, Mumbai Port Trust and Harbour 
+and Defence Establishments etc which generate Plastic Waste ; 
+17.1.25 “Waste pickers” mean individuals or agencies, groups of individuals 
+voluntarily engaged or authorised for picking of recyclable plastic 
+waste ; 
+ 
+17.1.26 Waste Generators’ Duties”: waste Generator Shall : 
+ 
+17.1.26.1. Not litter the plastic waste and ensure segregated storage of waste at 
+source and handover segregated waste to BMC or agencies appointed 
+by BMC or registered waste pickers’, registered recyclers or waste 
+collection agencies ;
+
+[Page 48]
+Page 48 of 64 
+ 
+17.1.26.2. Take steps to minimize generation of plastic waste and segregate 
+plastic waste at source in accordance with the Solid Waste 
+Management Rules, 2016 ; 
+ 
+17.1.26.3. All waste generators shall pay such user fee or charge as may be 
+specified in the bye -laws of the BMC for plastic waste management 
+such as waste collection or operation of the facility thereof, etc.; and ; 
+ 
+17.1.26.4. Every person responsible for organising an event in open space, 
+which involves service of food stuff in plastic or multi -layered 
+packaging shall segregate and manage the waste generated during 
+such events in accordance with the Solid Waste Management Rules 
+2016 , 
+ 
+17.1.27 Responsibility of retailers and street vendors : 
+ 
+17.1.27.1. Retailers or street vendors shall not sell or provide commodities to 
+consumer in carry bags or plastic sheet or multi -layered packaging, 
+which are not manufactured and labelled or marked, as per 
+prescribed under the Plastic Waste Management Rules; 
+ 
+17.1.27.2. Every retailers or street vendors selling or providing commodities in, 
+plastic carry bags or multi -layered packaging or plastic sheets or like 
+or covers made of plastic sheets which are not manufactured or 
+labelled or marked in accordance with these rules shall be liable to 
+pay such fines as specified under the bye -laws of the BMC; 
+ 
+17.1.27.3. Every person engaged in recycling or processing of plastic waste shall 
+prepare and submit an annual report to BMC by the 30th April, of 
+every year. 
+ 
+18. Segregation, Collection and Storage of Plastic Waste 
+18.1 Every waste generator shall segregate the wastes generated by them at the 
+source at which such wastes are generated, and plastic wastes shall be 
+stored separately from other kinds of wastes, within the premises of the 
+waste generator. This responsibility s hall fall upon the, occupier or 
+manager of the premises of the waste generator, as the case may be. The 
+aforementioned entities shall hand over such segregated plastic wastes 
+that to the collection agency designated by BMC ; 
+18.2 Plastic packaging of food wastes shall be emptied of their food contents, 
+before being segregated. Further, non -plastic biodegradable wastes 
+(including food wastes) shall not be disposed off in plastic bags other than 
+plastic garbage bags manufactured spec ifically for the disposal of non --
+
+[Page 49]
+Page 49 of 64 
+ plastic biodegradable waste ; 
+18.3 No plastic waste shall be disposed otherwise as has been provided under 
+these bye -laws. Further, no plastic waste shall be burnt in any public or 
+private premise ; 
+18.4 No plastic, including plastic containing any liquid, which by reason of its 
+mass or other characteristics is likely to render any collection 
+unreasonably difficult for the ULB’s employees or service provider to 
+handle, shall be stored or placed along with other plastic wastes ; 
+18.5 Generators of solid waste such as retail malls, institutions, all educational 
+institutions shall be encouraged to initiate and undertake special drives 
+and programs to promote segregated waste collection. This could be in the 
+form of one day collection dri ves, incentive based collection etc. The plastic 
+thus collected should be transported to the Community Waste Collection 
+Centres. 
+19. Collection Centres and Transportation 
+19.1 Plastic wastes shall, upon segregation, be handed over to waste pickers 
+designated to collect plastic wastes from the doorstep of the particular 
+waste generator. However, where door step collection services are not 
+available and/or a waste generator does n ot avail of the waste collection 
+services of waste pickers, such waste generator shall dispose of the 
+segregated plastic waste at the Community Waste Collection Centres, 
+designated by BMC ; 
+20. Processing of Plastic Wastes 
+20.1 BMC may, for the purpose of recycling, treating, processing and disposing 
+of plastic wastes or converting such wastes into any other matter 
+construct, acquire, operate, maintain and manage any establishment 
+within or outside BMC area and run it on a commercial basis or may 
+contract out such activity ; 
+20.2 The waste processing and disposal site shall be designed, constructed and 
+maintained as per the Central Pollution Control Board (for short “CPCB”) 
+guidelines . 
+21. Plastic Waste Management System 
+21.1 BMC shall establish, operate, administer and co -ordinate a PWM System. 
+The key goals of the PWM System are: 
+21.1.1 To ensure the safe collection, storage, segregation, transportation, 
+processing and disposal of plastic waste within its jurisdictional limits
+
+[Page 50]
+Page 50 of 64 
+ as may be mandatory for BMC in accordance with the PWM Rules, 2016; 
+21.1.2 To set up plastic waste collection centres/ material recovery facilities for 
+plastic waste; 
+21.1.3 To ensure its channelization to recyclers including through the existing 
+formal / informal waste recycling sector; 
+21.1.4 To create awareness among all the stakeholders about their 
+responsibilities; 
+21.1.5 To ensure the financial sustainability of plastic waste management; 
+21.1.6 To implement and levy user charges, penalty etc. for effective 
+implementation of plastic waste management ; 
+21.2 Waste generators Responsibilities: 
+21.2.1 Individual household and institutional waste generator shall take steps 
+to minimize generation of plastic waste and segregate plastic waste at 
+source ; 
+21.2.2 Waste generators will segregate the plastic waste at source and store it 
+separately ; 
+21.2.3 The waste generator shall not litter or burn the plastic waste. No 
+generator shall dispose the plastic waste to drains/unauthorized place 
+within municipal area. Waste generators shall be liable to pay user fees 
+as stipulated by BMC from time to time. 
+22. Organized retailers, un -organized retailers and street vendors 
+22.1 No person shall sell or provide commodities to consumers in plastic carry 
+bags, plastic sheet or multi -layered packaging which is manufactured, 
+labelled or marked in contravention of the PWM Rules, 2016 ; 
+22.2 No plastic carry bags shall be made available by organized retailers, un -
+organized retailers, vendors, wholesalers, hawkers etc. to any consumers ; 
+22.3 and un -organized retailers and street vendors found guilty of using plastic 
+carry bags shall be penalized as specified by PWM rules, 2016/ BMC in 
+this regard from time to time ; 
+22.4 Every organized and un -organized retailer or street vendors selling or 
+providing commodities in plastic carry bags or multi -layered packaging or 
+plastic sheets or like or covers made of plastic sheets which are not 
+manufactured or labelled or marked in acc ordance with these rules shall
+
+[Page 51]
+Page 51 of 64 
+ be liable to pay penalty as specified in these bye -laws; 
+22.5 Producers and Brand Owners: Producers and brand owner shall adhere 
+to Plastic Waste Management Rules 2016, and other regulations in 
+conformance with the SPCB. 
+22.6 Recyclers and Operators of Plastic Treatment Plants : 
+22.6.1 Recycling of plastic shall be carried out in accordance with relevant 
+Indian Standard: IS 14534: 1998 titled as Guidelines for recycling of 
+Plastic, as amended from time to time ; 
+22.6.2 Recyclers shall ensure that recycling facilities are in accordance with 
+the relevant Indian Standard: IS 14534: 1998 titled as Guidelines for 
+Recycling of Plastic and in compliance with the rules under the 
+Environment (Protection) Act, 1986 as amended from time to time ; 
+22.6.3 Recyclers shall work with BMC to ensure that the residues generated 
+from recycling process are disposed off in accordance with the relevant 
+schedules under the Solid Waste Management Rules, 2016 as amended 
+from time to time ; 
+22.6.4 Treatment plants and recyclers shall comply with the prescribed 
+standards in respect of pollution norms, as prescribed by the 
+appropriate authority in this regard . 
+22.7 Self-Compliance: 
+22.7.1. Treatment plants and recyclers shall comply with the prescribed 
+standards in respect of pollution norms, as prescribed by the 
+appropriate authority in this regard ; 
+22.7.2. Every waste generator, organized or un-organized retailer, recycler, 
+operator, etc . of plastic treatment plants shall maintain a self -
+compliance register, which shall be mandatory evidence for proof of 
+compliance with these byelaws ; 
+22.7.3. Such self -compliance register shall be maintained in the format 
+prescribed by BMC in Annexure 2 - Form 1, and shall be filled with 
+such periodicity as to correspond to the frequency of the disposal of 
+plastic wastes, by the maintaining entity ; 
+22.7.4. Persons failing to maintain the self -compliance register, shall be 
+subjected to the penalty stipulated under these rules.
+
+[Page 52]
+Page 52 of 64 
+ CHAPTER -XII IMPLEMENTATION AND GRIEVANCE REDRESSAL 
+23. Monitoring and Grievance Redressal 
+23.1 Any person aggrieved or affected by this Solid Waste (Management & 
+Handling), Cleanliness and Sanitation Byelaws for Brihanmumbai 
+Municipal Corporation, 202 5 shall have the right to file a complaint before 
+the Deputy Municipal Commissioner of Solid Waste Management 
+Department of BMC within 30 days. 
+23.2 The Deputy Municipal Commissioner of Solid Waste Management 
+Department may entertain the complaint after expiry of the said period of 
+30 days, if it is satisfied that the complainant was prevented by sufficient 
+and reasonable cause from filing the said complaint within such 
+prescribed time . 
+23.3 Any person aggrieved or affected by th e actions of BMC’s ward staff 
+invoked by citing Bye-laws shall have the right to file a complaint before 
+the Assistant Commissioner of the concerned ward of BMC within 30 
+days. 
+23.4 The Assistant Commissioner may entertain the complaint after expiry of 
+the said period of 30 days, if it is satisfied that the complainant was 
+prevented by sufficient and reasonable cause from filing the said 
+complaint within such prescribed time.
+
+[Page 53]
+Page 53 of 64 
+ CHAPTER -XIII ENFORCEMENT OF THE PROVISIONS OF THESE BYE -LAWS 
+24. Enforcement of the provisions of these Bye -Laws 
+24.1 BMC is at liberty to initiate appropriate proceedings under any other law 
+in addition to proceedings under these Bye -laws and Mumbai Municipal 
+Corporation Act, 1888 such as the Environmental Protection Act, 1986, 
+Mumbai Municipal Corporation Act, 1888, the Solid Waste Management 
+Rules, 2016, Plastic Waste Management Rules, 2016, E -Waste 
+Management Rules, 2016 Construction and Demolition Waste 
+Management Rules 2016, and Bio -Medical Waste Management Rules, 
+2016; the Water (Prevention and Control of Pollution) Act, 1974 and the 
+Air (Prevention and Control of Pollution) Act, 1 981 etc. for violation of any 
+provisions thereunder.
+
+[Page 54]
+Page 54 of 64 
+ CHAPTER -XIV PENALTY 
+25. Penalties for contravention of these Bye -laws 
+Whosoever contravenes any of the provisions of these Bye -laws or fails to 
+comply with the requirements made under any of these Byelaws shall be 
+punished with a fine as mentioned in Schedule -I appended to these Bye -
+laws, failing which, the said defaulter shall be liable to do the community 
+service for at least one hour like road sweeping or cleaning etc. as directed 
+/ ordered by the Nuisance Detector or Implementing Authority or any 
+person authorized to do so.
+
+[Page 55]
+Page 55 of 64 
+ CHAPTER -XV MISCELLANEOUS PROVISIONS 
+26. Miscellaneous Provisions 
+26.1 If a person is found spreading pollution or filth in public parks etc. by 
+throwing dead animal/cattle or its parts, it will be a punishable offense 
+and penalty shall also be levied.
+
+[Page 56]
+Page 56 of 64 
+ CHAPTER -XVI RIGHT TO APPEAL 
+27. Power of Municipal Commissioner to make Rules/Regulations under 
+this Bye -laws 
+The Municipal Commissioner of BMC may make Rules/Regulations from 
+time to time consistent with these Byelaws. 
+28. Right to Appeal 
+28.1 Any person aggrieved or affected by any order passed by the Assistant 
+Commissioner under Point No. 23 of these Bye Laws shall have the right 
+to appeal before the Zonal Deputy Municipal Commissioner of the 
+concerned Zone within 30 days of the date of order and the decision of 
+Zonal Deputy Municipal Commissioner shall be final, conclusive and 
+binding on the parties. 
+ 
+28.2 The Zonal Deputy Municipal Commissioner may entertain the appeal after 
+expiry of the said period of 30 days, if it is satisfied that the appellant was 
+prevented by sufficient and reasonable cause from filing the said appeal 
+within such prescribed time. 
+29. 
+SCHEDULE –I (Schedule of Penalty) 
+S. 
+No. Bye-law 
+No. Sub-division/Description of Bye -
+law Amount of fine if 
+the offence is 
+committed for the 
+first time (per 
+instance) 
+1 No.5.1 to 
+5.3 Littering on roads/ streets / 
+Footpaths, Gardens/ Public areas Rs500 
+2 No.5.4 
+Creating 
+Nuisance 
+at Public 
+spaces 
+and 
+Open 
+spaces Spitting Rs250 
+3 Bathing (Open and public spaces) Rs300 
+4 Urinating Rs500 
+5 Defecating Rs500 
+6 Feeding animals/birds (at Open 
+spaces and public spaces which 
+will create nuisance spots i.e 
+feeding birds along the major 
+streets, feeding cows, dogs on 
+footpaths etc.) Rs500
+
+[Page 57]
+Page 57 of 64 
+ 7 Washing utensils / clothes / any 
+other objects in pubic places Rs300 
+8 Washing Vehicles Rs500 
+9 No.5.1, 
+5.3 
+AND 
+U/s. 
+MMC 
+Act, 
+1988 For the first offence of delivering 
+waste that is not segregated and 
+not stored in separate bins: 
+a) Individual 
+b) Bulk Generator 
+ 
+Rs200 
+Rs1000 
+11 No.5.5 For not maintaining Clean 
+Aangan: for 
+ 
+a) for owners / occupiers of single 
+premises 
+b) for others 
+ 
+Rs__500__________ 
+Rs _1500 _________ 
+12 No 6.4 for indiscriminate dumping of C & 
+D waste at unauthorized or non -
+designated sites. Rs20 ,000 per 
+vehicle 
+ For t ransportation of C&D without 
+approved plan by zonal EE(SW M) Rs 25,000 per 
+vehicle 
+13 No 6.5 For not delivering “dry” waste in a 
+segregated manner as specified Rs200 
+14 No 6.6 For not delivering garden waste and 
+tree trimmings as specified Rs200 
+15 No 6.7 For Burning for commercial 
+purposes / large scale, etc. Rs 10,000 
+16 No. 8.2 For not delivering (non -household) 
+fish, poultry and meat waste in a 
+segregated manner, as specified Rs750 
+17 No. 8.3 For a vendor / hawker without a 
+container / waste basket/ dustbin Rs750 
+a) For a vendor / hawker who does 
+not deliver waste in a segregated 
+manner as specified Rs750
+
+[Page 58]
+Page 58 of 64 
+ 18 No. 8.4 For not keeping a house gully clean Rs500 
+19 No. 8.5 For littering/defecation by pet / 
+owned animals Rs1000 
+20 No. 8.6 For not cleaning -up after public 
+gathering / event within 4 hours Forfeiture of the 
+Cleanliness deposit
+
+[Page 59]
+Page 59 of 64 
+ SCHEDULE –II (Illustrative list of biodegradable and recyclable waste) 
+Biodegradable Waste 
+“Biodegradable waste ” means “wet” 
+waste of plant and animal origin. Recyclable waste 
+“Recyclable waste ” means “dry” 
+waste that can be transformed 
+through a process into raw materials 
+for producing new products, which 
+may or may not be similar to the 
+original products. 
+• Kitchen Waste including: tea 
+leaves, egg shells, fruit and 
+vegetable peels 
+• Meat and bones 
+• Garden and leaf litter, including 
+flowers 
+• Soiled paper 
+• House dust after cleaning 
+• Coconut Shells 
+• Ashes • Newspapers 
+• Paper, books and magazines 
+• Glass 
+• Metal objects and wire 
+• Plastic 
+• Cloth Rags 
+• Leather 
+• Rexene 
+• Rubber 
+• Wood /furniture 
+• Packaging 
+ 
+Note: Without prejudice to the rights and contention of BMC for Collection of 
+User Charge shall only be linked with Garbage Collection and waste 
+management. Merely payment of User Charge does not create a right of individual 
+to title and interest of the house/premises from which the waste is collected. The 
+above e xamples are illustrative and not exhaustive
+
+[Page 60]
+Page 60 of 64 
+ SCHEDULE –III (Specified Household Hazardous Waste) 
+Specified Household Hazardous Waste 
+• Aerosol cans 
+• Batteries and button cells 
+• Bleaches and household kitchen and drain cleaning Agents & its 
+Containers 
+• Car batteries, oil filters and car care products and consumables 
+• Chemicals and solvents and their containers 
+• Cosmetic items, chemical -based Insecticides and their containers 
+• Light bulbs, tube -lights and compact fluorescent lamps (CFL) 
+• Discarded Medicines and its containers, 
+• Paints, oils, lubricants, glues, thinners, and their containers 
+• Pesticides and herbicides and their containers 
+• Photographic audio/video tapes and their containers 
+• Styrofoam and soft foam packaging of furniture, packaging and 
+equipment 
+• Thermometers and mercury -containing products 
+• Soiled Sanitary Pads 
+ 
+Note : The above examples are illustrative and not exhaustive.
+
+[Page 61]
+Page 61 of 64 
+ SCHEDULE –IV (List of Bio -medical waste) 
+List of Bio -medical waste: 
+Bio-medical waste 
+1. Waste sharps 
+(Needles, syringes, scalpels, blades, glass, etc. that may cause puncture and 
+cuts. This includes both used and unused sharps) 
+2. Discarded Medicines and Cytotoxic drugs (waste comprising of outdated, 
+contaminated and discarded medicines) 
+3. Solid Waste 
+(Items contaminated with blood, and body fluids including cotton, dressings, 
+soiled plaster casts, lines, beddings, other material contaminated with blood) 
+4. Solid Waste (waste generated from disposable items other than the waste 
+sharps such as tubing’s, catheters, intravenous Sets etc). 
+ 
+Note : The above examples are illustrative and not exhaustive.
+
+[Page 62]
+Page 62 of 64 
+ SCHEDULE –V (User Fees) 
+User charges shall be collected as part of property tax and shall not be levied or 
+collected separately . The Rates/User Charges/Fees for collecting garbage from 
+home and establishments for Garbage Collection are fixed as follows: - 
+Sr. 
+No. Category of customer Amount (from each 
+premises) per month 
+ 
+1 Houses up to 50 sq. m. built -up area Rs. 100/ - 
+2 Houses over 50 sq. m. built -up area up to 
+300 sq. m. Rs. 500/ - 
+3 Houses with over 300 sq. m. built -up area Rs. 1000/ - 
+4 Commercial offices, Government offices, 
+Bank, Insurance offices, coaching classes, 
+education institutes etc. Rs. 750/ - 
+5 Commercial establishments, shops, eating 
+places (Dhaba/sweet shops/coffee house 
+etc) Rs. 100/ - 
+6 eating places (Dhaba/sweet shops/coffee 
+house etc) RS.500/ - 
+7 Guest House Rs.750/ - 
+8 Hostel Rs. 750/ - 
+9 Hotel Restaurant (Unstarred) Rs. 1500/ - 
+10 Hotel Restaurant (Up to 3 star) Rs. 2500/ - 
+11 Hotel Restaurant (over 3 star) Rs. 7500/- 
+12 Clinic, dispensary (up to 50 beds) Rs. 100/ - 
+13 Laboratories (up to 50 sq. m) Rs. 2000/ - 
+Rs. 2500/ - 
+14 Health Care Establishments more than 50 
+beds) Laboratories (more than 50 sq. m) Rs. 4000/ - 
+Rs. 5000/ - 
+15 Small and cottage industry workshops (only 
+non- hazardous), waste up to 10 Kg per day Rs. 1500/ - 
+16 Marriage halls, festival halls, exhibition and 
+fairs with area up to 3000 sq. m. Rs. 5000/ - 
+17 Marriage halls, festival halls, exhibition and 
+fairs with area over 3000 sq. m. Rs. 7500/ - 
+18 Bulk Waste Generators (delivering only 
+residual inert to BMC) __________ 
+19 Bulk Waste Generators (delivering entire 
+unprocessed waste to BMC) ___________ 
+20 Other places not marked as above As assessed by the BMC
+
+[Page 63]
+Page 63 of 64 
+ SCHEDULE –VI (Statutes, Rules, Notifications, Circulars, Guidelines) 
+I. Environment 
+1. Environmental (Protection) Act, 1986 and Rules ; 
+2. The Water (Prevention and Control of Pollution) Act, 1974 and Rules ; 
+3. The Air (Prevention and Control of Pollution) Act, 1981 and Rules ; 
+4. Solid Waste Management Rules, 2016 and the Municipal Solid Waste 
+Manual, 2000 [Draft Manual, 2014] ; 
+5. Plastic Waste Management Rules, 2016 ; 
+6. E-Waste Management Rules, 2016 ; 
+7. Hazardous and Other Wastes (Management and Trans boundary 
+Movement) Rules, 2016 ; 
+8. Bio-Medical Waste Management Rules, 2016 ; 
+9. Batteries (Management & Handling) Rules, 2001 ; 
+10. Maharashtra Non -Biodegradable Garbage (Control) Act, 2006 ; 
+11. Maharashtra Plastic Carry Bags (Manufacture and Usage) Rules, 2006 ; 
+12. Maharashtra Non -Biodegradable Solid Wastes (Proper and Scientific 
+Collection, Sorting and Disposal in the areas of Municipal 
+Corporations) Rules, 2006 ; 
+13. CAG Report: Management of Waste in India, Performance Audit - 
+Report No. 14 of 2008 ; 
+14. 2010 Ministry of Urban Development Circular: MSW Rules and Waste -
+pickers [D.O. No. Z - 14013/3/2009 -PHE II, March 22, 2010] ; 
+15. Report of the committee set up to frame National Sustainable Habitat 
+Standards for the Municipal Solid Waste Management ; 
+16. Report of the committee to evolve road map on management of wastes 
+in India, Ministry of Environment and Forests, March, 2010 ; 
+17. Guidelines for establishment of Common Bio -Medical Waste 
+Treatment Facilities throughout the country, CPCB ; 
+18. The National Environment Policy, 2006; 
+19. The National Urban Sanitation Policy, 2008;
+
+[Page 64]
+Page 64 of 64 
+ 20. The National Action Plan on Climate Change, 2008 . 
+II. Labour Related 
+1. The Minimum Wages Act, 1948 ; 
+2. The Maharashtra Minimum Wages Rules, 1963 ; 
+3. The Contract Labour (Regulation and Abolition) Act, 1970 ; 
+4. The Maharashtra Contract Labour (Regulation and Abolition) Rules, 
+1971 ; 
+5. Employees’ Provident Fund and Miscellaneous Provisions Act, 1952 ; 
+6. Employees’ State Insurance Act, 1948 ; 
+7. Maharashtra Workers Minimum House Rent Allowance Act, 1983 and 
+Rules ; 
+8. Workmen’s Compensation Act, 1923 ; 
+9. Child Labour (Prohibition and Regulation) Act, 1986 ; 
+10. Industrial Disputes Act, 1947 ; 
+11. Payment of Wages Act, 1936 ; 
+12. Payment of Bonus Act, 1965 ; 
+13. Payment of Gratuity Act, 1972 ; 
+14. Maternity Benefit Act, 1961 ; 
+15. Maharashtra Recognition of Trade unions and Prevention of Unfair 
+Labour Practices Act, 1971 . 
+III. Other 
+1. Maharashtra Municipal Corporations Act (LXI of 1949) ; 
+2. Bombay Shops and Establishments Act, 1948 ; 
+3. Indian Penal Code, 1860 .

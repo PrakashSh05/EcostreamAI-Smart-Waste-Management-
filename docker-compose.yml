@@ -1,0 +1,47 @@
+services:
+  # This service name 'db' is what the backend looks for in the POSTGRES_URL
+  db:
+    image: postgres:15-alpine
+    container_name: ecostream_db
+    env_file:
+      - .env
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./backend/db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  vision:
+    build:
+      context: ./vision
+    container_name: ecostream_vision
+    ports:
+      - "8001:8001"
+
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: ecostream_backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      CHROMA_PERSIST_DIR: /app/chroma_store
+    volumes:
+      - .:/app
+      - ./chroma_store:/app/chroma_store
+    depends_on:
+      db:
+        condition: service_healthy
+      vision:
+        condition: service_started
+
+volumes:
+  pg_data:

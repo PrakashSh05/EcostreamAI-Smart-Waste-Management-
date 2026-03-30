@@ -7,4 +7,7 @@ node_modules/
 dist/
 *.egg-info/
 .DS_Store
-pdfs/
+pdfs/**
+!pdfs/**/*.txt
+.pdfs/
+EcoStream_AllMembers_Guide*.docx
