@@ -1,105 +1,78 @@
-// Colour map per guide — Section 4, ChatBot.jsx spec
-const MATERIAL_COLORS = {
-  plastic: { bg: '#fee2e2', color: '#991b1b' },  // red
-  metal:   { bg: '#f3f4f6', color: '#374151' },  // grey
-  food:    { bg: '#dcfce7', color: '#166534' },  // green
-  paper:   { bg: '#fef9c3', color: '#854d0e' },  // yellow
-  default: { bg: '#e0e7ff', color: '#3730a3' },  // indigo
+// Material → chip CSS class mapping
+const MATERIAL_CLASS = {
+  plastic: 'eco-chip--plastic',
+  metal: 'eco-chip--metal',
+  food: 'eco-chip--food',
+  food_waste: 'eco-chip--food',
+  paper: 'eco-chip--paper',
+  glass: 'eco-chip--glass',
+  cardboard: 'eco-chip--cardboard',
 }
 
-// Case-insensitive match — "Dirty Plastic" still matches "plastic"
-function getMaterialColor(material) {
-  const key = Object.keys(MATERIAL_COLORS).find((k) =>
+function getChipClass(material) {
+  const key = Object.keys(MATERIAL_CLASS).find((k) =>
     material.toLowerCase().includes(k)
   )
-  return MATERIAL_COLORS[key ?? 'default']
+  return MATERIAL_CLASS[key] || 'eco-chip--default'
 }
 
-export default function ChatBot({ result }) {
-  // Return nothing if no result yet
+export default function ScanResult({ result }) {
   if (!result) return null
 
   const {
     detected_materials = [],
-    disposal_advice = '',
     timing_ms,
   } = result
 
   return (
-    <div
-      style={{
-        marginTop: 16,
-        background: '#fff',
-        borderRadius: 12,
-        border: '1px solid #e5e7eb',
-        padding: 16,
-      }}
-    >
-      {/* Section 1 — Material chips */}
-      <p style={{ fontSize: 12, color: '#9ca3af', marginBottom: 8 }}>
+    <div className="eco-card eco-advice" style={{ marginTop: 16 }}>
+      {/* Detected Materials */}
+      <div className="eco-advice__section-title">
         Detected Materials
-      </p>
+      </div>
 
-      <div
-        style={{
-          display: 'flex',
-          flexWrap: 'wrap',
-          gap: 6,
-          marginBottom: 16,
-        }}
-      >
+      <div className="eco-chips" style={{ marginBottom: 20 }}>
         {detected_materials.length === 0 ? (
-          <span style={{ fontSize: 14, color: '#9ca3af' }}>
-            No materials detected
+          <span style={{ fontSize: 14, color: 'var(--text-muted)' }}>
+            No materials detected — try pointing closer to the waste
           </span>
         ) : (
-          detected_materials.map((mat) => {
-            const { bg, color } = getMaterialColor(mat)
-            return (
-              <span
-                key={mat}
-                style={{
-                  background: bg,
-                  color,
-                  padding: '4px 12px',
-                  borderRadius: 20,
-                  fontSize: 13,
-                  fontWeight: 600,
-                }}
-              >
-                {mat}
-              </span>
-            )
-          })
+          detected_materials.map((mat) => (
+            <span key={mat} className={`eco-chip ${getChipClass(mat)}`}>
+              {mat}
+            </span>
+          ))
         )}
       </div>
 
-      {/* Section 2 — Disposal advice text */}
-      <p style={{ fontSize: 12, color: '#9ca3af', marginBottom: 6 }}>
-        Disposal Advice
-      </p>
-      <p
-        style={{
-          fontSize: 14,
-          lineHeight: 1.7,
-          color: '#1a1a18',
-        }}
-      >
-        {disposal_advice}
-      </p>
+      {/* Success notification instead of disposal advice */}
+      {detected_materials.length > 0 && (
+        <>
+          <div className="eco-advice__section-title">
+            Status
+          </div>
+          <div className="eco-status eco-status--success" style={{ lineHeight: 1.8 }}>
+            <span style={{ fontSize: 18, marginRight: 8 }}>✅</span>
+            Your waste report has been submitted to the <strong>Government Dashboard</strong>. 
+            Municipal authorities have been notified and will take action to collect the waste 
+            from your area soon. Thank you for keeping the city clean!
+          </div>
+        </>
+      )}
 
-      {/* Section 3 — Response time caption (optional, from timing_ms) */}
+      {detected_materials.length === 0 && (
+        <div className="eco-status eco-status--error" style={{ lineHeight: 1.8 }}>
+          <span style={{ fontSize: 18, marginRight: 8 }}>📷</span>
+          No waste materials were detected. Try moving closer to the waste or adjusting the camera angle.
+        </div>
+      )}
+
+      {/* Response time */}
       {timing_ms?.total_ms && (
-        <p
-          style={{
-            marginTop: 12,
-            fontSize: 11,
-            color: '#d1d5db',
-            textAlign: 'right',
-          }}
-        >
-          Response time: {(timing_ms.total_ms / 1000).toFixed(1)}s
-        </p>
+        <div className="eco-advice__timing">
+          ⚡ Response: {(timing_ms.total_ms / 1000).toFixed(1)}s
+          {timing_ms.yolo_ms && ` · YOLO: ${timing_ms.yolo_ms}ms`}
+        </div>
       )}
     </div>
   )

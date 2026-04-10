@@ -9,61 +9,53 @@ export default function GovDashboard() {
   const [scans, setScans] = useState([])
   const [selectedCity, setSelectedCity] = useState('Bangalore')
   const [showPredictions, setShowPredictions] = useState(false)
-  const [resolveStatus, setResolveStatus] = useState(null) // success/error message
+  const [resolveStatus, setResolveStatus] = useState(null)
   const [resolving, setResolving] = useState(false)
   const [refreshTrigger, setRefreshTrigger] = useState(0)
   const [lastUpdated, setLastUpdated] = useState(null)
 
-  // Fetch scan logs for sidebar stats on mount
   useEffect(() => {
     async function fetchScans() {
       try {
-        const data = await getScans()
-        setScans(data)
+        const data = await getScans(selectedCity)
+        setScans(data?.items || data || [])
         setLastUpdated(new Date().toLocaleTimeString())
       } catch (err) {
         console.error('Failed to fetch scans:', err)
       }
     }
     fetchScans()
-  }, [])
+  }, [selectedCity])
 
-  // Calculate total scans count
-  const totalScans = scans.length
+  const scansList = Array.isArray(scans) ? scans : []
+  const totalScans = scansList.length
 
-  // Calculate top 3 materials by frequency across all scans
   function getTopMaterials() {
     const freq = {}
-    scans.forEach((scan) => {
+    scansList.forEach((scan) => {
       (scan.materials || []).forEach((mat) => {
         freq[mat] = (freq[mat] || 0) + 1
       })
     })
     return Object.entries(freq)
       .sort((a, b) => b[1] - a[1])
-      .slice(0, 3)
+      .slice(0, 5)
       .map(([mat, count]) => ({ mat, count }))
   }
 
   const topMaterials = getTopMaterials()
 
-  // Contract 2 — Mark as Collected handler
   async function handleResolve() {
     setResolving(true)
     setResolveStatus(null)
-
     try {
       const result = await resolveZone(selectedCity, 1.0)
-
-      // Show success message with count of resolved rows
+      const resolvedCount = result?.resolved ?? result?.resolved_count ?? 0
       setResolveStatus({
         type: 'success',
-        message: `✅ ${result.resolved_count ?? result} scans marked as collected in ${selectedCity}`,
+        message: `✅ ${resolvedCount} scans marked as collected in ${selectedCity}`,
       })
-
-      // Increment refreshTrigger → HeatMap re-fetches immediately
       setRefreshTrigger((prev) => prev + 1)
-
     } catch (err) {
       setResolveStatus({
         type: 'error',
@@ -76,228 +68,120 @@ export default function GovDashboard() {
   }
 
   return (
-    <div style={{ display: 'flex', height: 'calc(100vh - 41px)' }}>
-
-      {/* LEFT — Map area (70% width) */}
-      <div style={{ flex: 7, position: 'relative' }}>
-        <HeatMap refreshTrigger={refreshTrigger}>
-          {/* PredictiveLayer renders inside HeatMap's MapContainer */}
-          <PredictiveLayer show={showPredictions} />
+    <div className="eco-dashboard">
+      {/* Map Area */}
+      <div className="eco-dashboard__map">
+        <HeatMap refreshTrigger={refreshTrigger} city={selectedCity}>
+          <PredictiveLayer show={showPredictions} city={selectedCity} />
         </HeatMap>
       </div>
 
-      {/* RIGHT — Sidebar (30% width) */}
-      <div
-        style={{
-          flex: 3,
-          background: '#fff',
-          borderLeft: '1px solid #e5e7eb',
-          padding: 20,
-          overflowY: 'auto',
-          display: 'flex',
-          flexDirection: 'column',
-          gap: 20,
-        }}
-      >
-        {/* Sidebar header */}
+      {/* Sidebar */}
+      <div className="eco-dashboard__sidebar">
+        {/* Sidebar Header */}
         <div>
-          <h2 style={{ fontSize: 16, fontWeight: 700, color: '#1a1a18' }}>
-            🗺️ Government Dashboard
+          <h2 style={{ fontSize: 18, fontWeight: 800, color: 'var(--text-primary)' }}>
+            🗺️ Command Center
           </h2>
-          <p style={{ fontSize: 12, color: '#9ca3af', marginTop: 4 }}>
-            Bengaluru Waste Management
+          <p style={{ fontSize: 12, color: 'var(--text-muted)', marginTop: 4 }}>
+            Real-time waste management dashboard
           </p>
         </div>
 
-        {/* Stats card — total scans */}
-        <div
-          style={{
-            background: '#f9fafb',
-            borderRadius: 10,
-            padding: 14,
-            border: '1px solid #e5e7eb',
-          }}
-        >
-          <p style={{ fontSize: 12, color: '#9ca3af', marginBottom: 4 }}>
-            Total Scans
-          </p>
-          <p style={{ fontSize: 28, fontWeight: 700, color: '#1a1a18' }}>
-            {totalScans}
-          </p>
+        {/* Total Scans Stat */}
+        <div className="eco-card">
+          <div className="eco-stat">
+            <div className="eco-stat__icon eco-stat__icon--green">📊</div>
+            <div className="eco-stat__info">
+              <div className="eco-stat__label">Active Scans</div>
+              <div className="eco-stat__value">{totalScans}</div>
+            </div>
+          </div>
           {lastUpdated && (
-            <p style={{ fontSize: 11, color: '#9ca3af', marginTop: 4 }}>
-              Last updated: {lastUpdated}
+            <p style={{ fontSize: 11, color: 'var(--text-muted)', marginTop: 8 }}>
+              Last synced: {lastUpdated}
             </p>
           )}
         </div>
 
-        {/* Top 3 materials */}
-        <div
-          style={{
-            background: '#f9fafb',
-            borderRadius: 10,
-            padding: 14,
-            border: '1px solid #e5e7eb',
-          }}
-        >
-          <p style={{ fontSize: 12, color: '#9ca3af', marginBottom: 10 }}>
-            Top Detected Materials
-          </p>
+        {/* Top Materials */}
+        <div className="eco-card">
+          <div className="eco-card__title">Top Detected Materials</div>
           {topMaterials.length === 0 ? (
-            <p style={{ fontSize: 13, color: '#9ca3af' }}>No data yet</p>
+            <p style={{ fontSize: 13, color: 'var(--text-muted)' }}>No data yet</p>
           ) : (
-            topMaterials.map(({ mat, count }, i) => (
-              <div
-                key={mat}
-                style={{
-                  display: 'flex',
-                  justifyContent: 'space-between',
-                  alignItems: 'center',
-                  marginBottom: 8,
-                }}
-              >
-                <span style={{ fontSize: 13, color: '#374151' }}>
-                  {i + 1}. {mat}
-                </span>
-                <span
-                  style={{
-                    fontSize: 12,
-                    background: '#e0e7ff',
-                    color: '#3730a3',
-                    padding: '2px 8px',
-                    borderRadius: 10,
-                    fontWeight: 600,
-                  }}
-                >
-                  {count}
-                </span>
-              </div>
-            ))
+            <div className="eco-material-list">
+              {topMaterials.map(({ mat, count }, i) => (
+                <div className="eco-material-item" key={mat}>
+                  <span className="eco-material-item__name">
+                    <span className="eco-material-item__rank">{i + 1}</span>
+                    {mat}
+                  </span>
+                  <span className="eco-material-item__count">{count}</span>
+                </div>
+              ))}
+            </div>
           )}
         </div>
 
-        {/* Contract 2 — City dropdown + Mark as Collected */}
-        <div
-          style={{
-            background: '#f9fafb',
-            borderRadius: 10,
-            padding: 14,
-            border: '1px solid #e5e7eb',
-          }}
-        >
-          <p style={{ fontSize: 12, color: '#9ca3af', marginBottom: 8 }}>
-            Mark Zone as Collected
-          </p>
+        {/* Mark as Collected — Contract 2 */}
+        <div className="eco-card">
+          <div className="eco-card__title">Zone Collection Control</div>
 
-          {/* City dropdown */}
           <select
             value={selectedCity}
             onChange={(e) => {
               setSelectedCity(e.target.value)
               setResolveStatus(null)
             }}
-            style={{
-              width: '100%',
-              padding: '8px 10px',
-              borderRadius: 8,
-              border: '1px solid #d1d5db',
-              fontSize: 14,
-              marginBottom: 10,
-              background: '#fff',
-              color: '#1a1a18',
-            }}
+            className="eco-select"
+            style={{ marginBottom: 12 }}
           >
             {CITIES.map((city) => (
-              <option key={city} value={city}>
-                {city}
-              </option>
+              <option key={city} value={city}>{city}</option>
             ))}
           </select>
 
-          {/* Mark as Collected button — Contract 2 */}
           <button
             onClick={handleResolve}
             disabled={resolving}
-            style={{
-              width: '100%',
-              padding: '10px',
-              fontSize: 14,
-              fontWeight: 600,
-              borderRadius: 8,
-              border: 'none',
-              background: resolving ? '#9ca3af' : '#2563eb',
-              color: '#fff',
-              cursor: resolving ? 'not-allowed' : 'pointer',
-            }}
+            className={`eco-btn eco-btn--primary eco-btn--full`}
           >
-            {resolving ? '⏳ Resolving...' : '✅ Mark as Collected'}
+            {resolving ? '⏳ Resolving...' : '✅ Mark Zone as Collected'}
           </button>
 
-          {/* Success or error message after resolve */}
           {resolveStatus && (
             <div
-              style={{
-                marginTop: 10,
-                padding: '8px 10px',
-                borderRadius: 8,
-                fontSize: 13,
-                background: resolveStatus.type === 'success' ? '#f0fdf4' : '#fef2f2',
-                color: resolveStatus.type === 'success' ? '#166534' : '#dc2626',
-                border: `1px solid ${resolveStatus.type === 'success' ? '#bbf7d0' : '#fecaca'}`,
-              }}
+              className={`eco-status eco-status--${resolveStatus.type}`}
+              style={{ marginTop: 10 }}
             >
               {resolveStatus.message}
             </div>
           )}
+
+          <p style={{ fontSize: 11, color: 'var(--text-muted)', marginTop: 8 }}>
+            Collected zones are removed from the heatmap immediately
+          </p>
         </div>
 
-        {/* Predictive layer toggle */}
-        <div
-          style={{
-            background: '#f9fafb',
-            borderRadius: 10,
-            padding: 14,
-            border: '1px solid #e5e7eb',
-          }}
-        >
-          <p style={{ fontSize: 12, color: '#9ca3af', marginBottom: 10 }}>
-            Overlay
-          </p>
-          <label
-            style={{
-              display: 'flex',
-              alignItems: 'center',
-              gap: 10,
-              cursor: 'pointer',
-              fontSize: 14,
-              color: '#374151',
-            }}
-          >
+        {/* Prediction Overlay Toggle */}
+        <div className="eco-card">
+          <div className="eco-card__title">Prediction Overlay</div>
+          <label className="eco-toggle">
             <input
               type="checkbox"
               checked={showPredictions}
               onChange={(e) => setShowPredictions(e.target.checked)}
-              style={{ width: 16, height: 16, cursor: 'pointer' }}
             />
-            Show Predicted Hotspots
-            <span
-              style={{
-                width: 12,
-                height: 12,
-                borderRadius: '50%',
-                background: '#8b5cf6',
-                display: 'inline-block',
-              }}
-            />
+            <span className="eco-toggle__track" />
+            <span className="eco-toggle__label">Show Tomorrow's Hotspots</span>
           </label>
-          <p style={{ fontSize: 11, color: '#9ca3af', marginTop: 6 }}>
-            Purple markers show tomorrow's predicted waste hotspots
+          <p style={{ fontSize: 11, color: 'var(--text-muted)', marginTop: 8 }}>
+            <span className="eco-legend__dot eco-legend__dot--prediction" style={{ display: 'inline-block', marginRight: 4, verticalAlign: 'middle' }} />
+            Purple markers show predicted waste accumulation points
           </p>
         </div>
-
       </div>
     </div>
   )
 }
-
-                         

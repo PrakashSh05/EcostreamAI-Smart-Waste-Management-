@@ -1,6 +1,7 @@
 import os
 import time
 import uuid
+import logging
 from datetime import datetime, timezone
 
 from fastapi import APIRouter, File, Form, UploadFile
@@ -8,10 +9,12 @@ from fastapi import APIRouter, File, Form, UploadFile
 from backend.db.postgres import get_connection
 from backend.models.schemas import AnalyzeLocation, AnalyzeResponse, AnalyzeTimingMs
 from backend.services import yolo_client
+from backend.services.vision_classifier import classify_waste_image
 from backend.services.geocode import get_city_from_coords
 from rag.query import get_disposal_advice
 
 router = APIRouter(tags=["analyze"])
+logger = logging.getLogger(__name__)
 
 
 @router.post("/analyze", response_model=AnalyzeResponse)
@@ -25,16 +28,39 @@ async def analyze_image(
 
 	image_bytes = await file.read()
 
+	# Step 1: Run YOLO detection (for object detection + bounding boxes)
 	yolo_start = time.time()
 	yolo_result = await yolo_client.detect_materials(image_bytes)
 	yolo_ms = int((time.time() - yolo_start) * 1000)
 
 	if isinstance(yolo_result, dict):
-		labels = yolo_result.get("labels") or yolo_result.get("materials") or []
+		yolo_labels = yolo_result.get("labels") or yolo_result.get("materials") or []
 	else:
-		labels = yolo_result or []
+		yolo_labels = yolo_result or []
+	yolo_labels = [str(item) for item in yolo_labels]
 
-	labels = [str(item) for item in labels]
+	# Step 2: Run Groq Vision classifier (for accurate material classification)
+	vision_start = time.time()
+	try:
+		vision_labels = await classify_waste_image(image_bytes)
+	except Exception as e:
+		logger.warning("Vision classifier failed, using YOLO only: %s", e)
+		vision_labels = []
+	vision_ms = int((time.time() - vision_start) * 1000)
+
+	# Step 3: Merge results — prefer Vision classifier, fall back to YOLO
+	if vision_labels:
+		labels = vision_labels
+		logger.info(
+			"Using Vision classifier: %s (YOLO said: %s)",
+			vision_labels, yolo_labels,
+		)
+	else:
+		labels = yolo_labels
+		logger.info("Using YOLO labels: %s", yolo_labels)
+
+	# Deduplicate
+	labels = list(dict.fromkeys(labels))
 
 	resolved_city = get_city_from_coords(latitude, longitude) if not city else city
 

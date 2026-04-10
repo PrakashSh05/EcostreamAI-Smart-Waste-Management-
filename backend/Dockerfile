@@ -12,11 +12,12 @@ RUN apt-get update && apt-get install -y \
 
 # 2. Copy and install requirements first (to cache this layer and speed up future builds)
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir --retries 3 --timeout 120 -r requirements.txt
 
 # 3. Explicitly copy only the necessary folders to avoid image bloat
 COPY backend/ ./backend/
 COPY rag/ ./rag/
+COPY analytics/ ./analytics/
 
 # 4. Your brilliant addition to fix Python import paths
 ENV PYTHONPATH=/app

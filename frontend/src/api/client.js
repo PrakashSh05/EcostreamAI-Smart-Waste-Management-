@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL,
+  baseURL: import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000',
 })
 
 export async function analyzeWaste(imageFile, latitude, longitude, city) {
@@ -21,17 +21,31 @@ export async function getScans(city, limit = 500) {
   return res.data
 }
 
-export async function getHeatmap() {
-  const res = await api.get('/heatmap')
+export async function getHeatmap(city) {
+  const res = await api.get('/heatmap', { params: { city } })
   return res.data
 }
 
-export async function getPredictions() {
-  const res = await api.get('/predict')
+export async function getPredictions(city) {
+  const res = await api.get('/predict', { params: { city } })
   return res.data
 }
 
 export async function resolveZone(city, radius_km = 1.0) {
   const res = await api.post('/scans/resolve', { city, radius_km })
+  return res.data
+}
+
+export async function chatWithRAG(message, city = 'Bangalore', imageFile = null) {
+  const form = new FormData()
+  form.append('message', message)
+  form.append('city', city)
+  if (imageFile) {
+    form.append('file', imageFile)
+  }
+  const res = await api.post('/chat', form, {
+    headers: { 'Content-Type': 'multipart/form-data' },
+    timeout: 30000,
+  })
   return res.data
 }

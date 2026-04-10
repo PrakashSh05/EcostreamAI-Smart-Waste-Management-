@@ -16,13 +16,6 @@ services:
       timeout: 5s
       retries: 5
 
-  vision:
-    build:
-      context: ./vision
-    container_name: ecostream_vision
-    ports:
-      - "8001:8001"
-
   backend:
     build:
       context: .
@@ -42,6 +35,30 @@ services:
         condition: service_healthy
       vision:
         condition: service_started
+
+  
+  vision:
+    build:
+      context: ./vision
+      dockerfile: Dockerfile
+    image: ecostream-vision:latest
+    container_name: ecostream-vision
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./vision/model:/app/model:ro
+    environment:
+      - MODEL_PATH=/app/model/best.pt
+      - YOLO_CONF_THRESHOLD=0.20
+      - YOLO_IOU_THRESHOLD=0.45
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/health"]
+      interval: 30s
+      timeout: 10s
+      start_period: 60s
+      retries: 3
+
 
 volumes:
   pg_data:

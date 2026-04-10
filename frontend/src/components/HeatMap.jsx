@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet'
+import { MapContainer, TileLayer, CircleMarker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import { getHeatmap } from '../api/client'
@@ -12,28 +12,42 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
 })
 
-// Per guide — intensity thresholds and colours
+const CITY_COORDS = {
+  Bangalore: [12.9716, 77.5946],
+  Mumbai: [19.0760, 72.8777],
+  Delhi: [28.7041, 77.1025],
+  Chennai: [13.0827, 80.2707],
+}
+
 function getCircleStyle(intensity) {
   if (intensity > 0.7) {
-    return { color: '#ef4444', radius: 14 }   // red — collect urgently
+    return { color: '#ef4444', fillColor: '#ef4444', radius: 14 }
   } else if (intensity >= 0.4) {
-    return { color: '#f97316', radius: 10 }   // orange — medium
+    return { color: '#f97316', fillColor: '#f97316', radius: 10 }
   } else {
-    return { color: '#22c55e', radius: 7 }    // green — low
+    return { color: '#22c55e', fillColor: '#22c55e', radius: 7 }
   }
 }
 
-// refreshTrigger — when this value changes, map re-fetches immediately
-// children — allows PredictiveLayer to render inside same MapContainer
-export default function HeatMap({ refreshTrigger, children }) {
+function MapUpdater({ center }) {
+  const map = useMap()
+  useEffect(() => {
+    map.setView(center, map.getZoom(), { animate: true })
+  }, [center, map])
+  return null
+}
+
+export default function HeatMap({ refreshTrigger, city, children }) {
   const [points, setPoints] = useState([])
   const [lastUpdated, setLastUpdated] = useState(null)
   const [error, setError] = useState(null)
 
+  const center = CITY_COORDS[city] || CITY_COORDS['Bangalore']
+
   async function fetchHeatmap() {
     try {
-      const data = await getHeatmap()
-      setPoints(data)
+      const data = await getHeatmap(city)
+      setPoints(Array.isArray(data) ? data : [])
       setLastUpdated(new Date().toLocaleTimeString())
       setError(null)
     } catch (err) {
@@ -42,20 +56,12 @@ export default function HeatMap({ refreshTrigger, children }) {
     }
   }
 
-  // Fetch on mount + set up 60s polling
   useEffect(() => {
     fetchHeatmap()
-
-    const interval = setInterval(() => {
-      fetchHeatmap()
-    }, 60000) // 60 seconds per guide
-
-    // Cleanup interval when component unmounts
+    const interval = setInterval(fetchHeatmap, 60000)
     return () => clearInterval(interval)
-  }, [])
+  }, [city])
 
-  // Re-fetch immediately when refreshTrigger changes
-  // This is called by GovDashboard after Mark as Collected succeeds
   useEffect(() => {
     if (refreshTrigger !== undefined && refreshTrigger !== null) {
       fetchHeatmap()
@@ -64,48 +70,37 @@ export default function HeatMap({ refreshTrigger, children }) {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
-
-      {/* Error banner */}
       {error && (
-        <div
-          style={{
-            padding: '8px 12px',
-            background: '#fef2f2',
-            color: '#dc2626',
-            fontSize: 13,
-            borderBottom: '1px solid #fecaca',
-          }}
-        >
+        <div className="eco-status eco-status--error" style={{ borderRadius: 0 }}>
           ⚠️ {error}
         </div>
       )}
 
-      {/* Leaflet map — MUST have explicit height or it won't render */}
       <div style={{ flex: 1, minHeight: 0 }}>
         <MapContainer
-          center={[12.9716, 77.5946]}
+          center={center}
           zoom={12}
           style={{ height: '100%', width: '100%' }}
         >
-          {/* OpenStreetMap base tiles */}
+          <MapUpdater center={center} />
+          
           <TileLayer
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
 
-          {/* Intensity circles — one per heatmap point */}
           {points.map((point, i) => {
-            const { color, radius } = getCircleStyle(point.intensity)
+            const { color, fillColor, radius } = getCircleStyle(point.intensity)
             return (
               <CircleMarker
-                key={i}
+                key={`hm-${i}`}
                 center={[point.lat, point.lng]}
                 radius={radius}
                 pathOptions={{
                   color,
-                  fillColor: color,
+                  fillColor,
                   fillOpacity: 0.7,
-                  weight: 1,
+                  weight: 2,
                 }}
               >
                 <Popup>
@@ -120,31 +115,22 @@ export default function HeatMap({ refreshTrigger, children }) {
             )
           })}
 
-          {/* PredictiveLayer renders here as a child inside same MapContainer */}
           {children}
-
         </MapContainer>
       </div>
 
-      {/* Last updated timestamp — visible below map */}
-      <div
-        style={{
-          padding: '6px 12px',
-          background: '#f9fafb',
-          borderTop: '1px solid #e5e7eb',
-          fontSize: 12,
-          color: '#9ca3af',
-          display: 'flex',
-          justifyContent: 'space-between',
-          alignItems: 'center',
-        }}
-      >
-        <span>🔴 High &nbsp; 🟠 Medium &nbsp; 🟢 Low</span>
+      <div className="eco-legend">
+        <div className="eco-legend__items">
+          <span><span className="eco-legend__dot eco-legend__dot--high" /> High</span>
+          <span><span className="eco-legend__dot eco-legend__dot--medium" /> Medium</span>
+          <span><span className="eco-legend__dot eco-legend__dot--low" /> Low</span>
+          <span><span className="eco-legend__dot eco-legend__dot--prediction" /> Predicted</span>
+        </div>
         <span>
           {lastUpdated ? `Updated: ${lastUpdated}` : 'Loading...'}
+          {' · '}{points.length} hotspots in {city}
         </span>
       </div>
-
     </div>
   )
 }

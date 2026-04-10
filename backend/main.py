@@ -4,7 +4,8 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.routes import analyze, health, scans
+from backend.routes import analyze, health, scans, chat
+from analytics.routes import predict as analytics_predict
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -28,3 +29,5 @@ app.add_middleware(
 app.include_router(health.router)
 app.include_router(analyze.router)
 app.include_router(scans.router)
+app.include_router(analytics_predict.router)
+app.include_router(chat.router)
