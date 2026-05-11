@@ -72,12 +72,186 @@
 
 ## 🏗️ System Architecture
 
+### High-Level Component Diagram
+
+```mermaid
+graph TB
+    subgraph CLIENT["🖥️ Client Layer"]
+        CP["📸 Citizen Portal<br/><i>LiveScan · ChatBot · FloatingChat</i>"]
+        GD["🗺️ Gov Dashboard<br/><i>HeatMap · PredictiveLayer · ZoneResolve</i>"]
+    end
+
+    subgraph BACKEND["⚙️ Backend — FastAPI :8000"]
+        ANALYZE["POST /analyze<br/><i>Main scan pipeline</i>"]
+        CHAT["POST /chat<br/><i>AI chatbot endpoint</i>"]
+        HEATMAP["GET /heatmap<br/><i>KDE heatmap engine</i>"]
+        PREDICT["GET /predict<br/><i>Next-day hotspot forecast</i>"]
+        RESOLVE["POST /scans/resolve<br/><i>Mark zone collected</i>"]
+    end
+
+    subgraph VISION["👁️ Vision Service :8001"]
+        YOLO["YOLOv11s-seg<br/><i>6 classes · mAP 0.65</i>"]
+        GROQV["Groq Vision<br/><i>Fallback classifier</i>"]
+    end
+
+    subgraph RAG["🧠 RAG Pipeline"]
+        DENSE["Dense Search<br/><i>BGE-base-en-v1.5</i>"]
+        SPARSE["BM25 Sparse<br/><i>rank-bm25</i>"]
+        RRF["RRF Fusion"]
+        RERANK["Cross-Encoder<br/><i>ms-marco-MiniLM</i>"]
+        LLM["Groq LLM<br/><i>Llama-3.1-8B</i>"]
+    end
+
+    subgraph ANALYTICS["📊 Analytics Engine"]
+        KDE["Gaussian KDE<br/><i>~500m grid cells</i>"]
+        PRED_ENG["Prediction Engine<br/><i>Exponential decay + DoW</i>"]
+    end
+
+    subgraph DATA["🗄️ Data Layer"]
+        PG[("PostgreSQL 15<br/><i>scans table</i>")]
+        CHROMA[("ChromaDB<br/><i>Vector store</i>")]
+        CORPUS["📄 Regulatory Corpus<br/><i>5 city documents</i>"]
+    end
+
+    CP -->|"axios"| ANALYZE
+    CP -->|"axios"| CHAT
+    GD -->|"axios"| HEATMAP
+    GD -->|"axios"| PREDICT
+    GD -->|"axios"| RESOLVE
+
+    ANALYZE -->|"HTTP"| YOLO
+    ANALYZE --> GROQV
+    ANALYZE --> LLM
+    ANALYZE -->|"INSERT"| PG
+
+    CHAT --> LLM
+
+    DENSE --> CHROMA
+    SPARSE --> CHROMA
+    DENSE --> RRF
+    SPARSE --> RRF
+    RRF --> RERANK
+    RERANK --> LLM
+    CORPUS -.->|"ingest.py"| CHROMA
+
+    HEATMAP --> KDE
+    PREDICT --> PRED_ENG
+    KDE -->|"SELECT uncollected"| PG
+    PRED_ENG -->|"SELECT 14-day"| PG
+    RESOLVE -->|"UPDATE collected"| PG
+
+    style CLIENT fill:#1a1a2e,stroke:#16213e,color:#e0e0e0
+    style BACKEND fill:#0f3460,stroke:#16213e,color:#e0e0e0
+    style VISION fill:#533483,stroke:#16213e,color:#e0e0e0
+    style RAG fill:#2b2d42,stroke:#16213e,color:#e0e0e0
+    style ANALYTICS fill:#1b4332,stroke:#16213e,color:#e0e0e0
+    style DATA fill:#3d0c11,stroke:#16213e,color:#e0e0e0
+```
+
+<details>
+<summary>📎 View Architecture Diagram (Image)</summary>
+
 ![System Architecture](./System_Architecture_EcoStream_AI.jpeg)
 
+</details>
 
-### Request Flow: Citizen Scans Waste
+---
+
+### 🔄 Request Workflow: Citizen Scans Waste
+
+```mermaid
+sequenceDiagram
+    actor User as 👤 Citizen
+    participant FE as 📱 React Frontend
+    participant BE as ⚙️ Backend :8000
+    participant VS as 👁️ Vision :8001
+    participant RAG as 🧠 RAG Pipeline
+    participant DB as 🗄️ PostgreSQL
+    participant LLM as 🤖 Groq LLM
+
+    User->>FE: Points camera at waste
+    FE->>FE: Capture frame + compress (browser-image-compression)
+    FE->>+BE: POST /analyze (image, lat, lng, city)
+
+    Note over BE: ⏱️ Start timing
+
+    BE->>+VS: POST /detect (image)
+    VS->>VS: YOLOv11s-seg inference
+    VS-->>-BE: {labels, confidence, masks} — 489ms avg
+
+    BE->>BE: Groq Vision classifier (fallback)
+    BE->>BE: Merge & deduplicate labels
+
+    BE->>+RAG: get_disposal_advice(materials, city)
+    RAG->>RAG: Dense search (BGE embeddings)
+    RAG->>RAG: Sparse search (BM25)
+    RAG->>RAG: RRF fusion
+    RAG->>RAG: Cross-encoder reranking
+    RAG->>RAG: City-aware document filtering
+    RAG->>+LLM: Generate answer (Llama-3.1-8B)
+    LLM-->>-RAG: Grounded disposal advice
+    RAG->>RAG: Faithfulness verification (30% token overlap)
+    RAG-->>-BE: disposal_advice — 376ms avg
+
+    BE->>+DB: INSERT scan record
+    DB-->>-BE: OK — 16ms avg
+
+    Note over BE: ⏱️ Total: 979ms avg
+
+    BE-->>-FE: {scan_id, materials, advice, timing_ms}
+    FE->>User: Display results + AI chatbot
+```
+
+```mermaid
+sequenceDiagram
+    actor Op as 🏛️ Municipal Operator
+    participant FE as 📱 Gov Dashboard
+    participant BE as ⚙️ Backend :8000
+    participant KDE as 📊 KDE Engine
+    participant PRED as 🔮 Prediction Engine
+    participant DB as 🗄️ PostgreSQL
+
+    Op->>FE: Opens Dashboard, selects city
+    FE->>+BE: GET /heatmap?city=Bangalore
+
+    BE->>+DB: SELECT uncollected scans
+    DB-->>-BE: scan rows
+    BE->>+KDE: compute_heatmap(rows)
+    KDE->>KDE: Grid cells (~500m) + intensity scoring
+    KDE->>KDE: Absolute thresholds (≤2→green, 3-5→orange, 6+→red)
+    KDE-->>-BE: [{lat, lng, intensity}]
+
+    BE-->>-FE: Heatmap points
+    FE->>FE: Render CircleMarkers on Leaflet map
+
+    Op->>FE: Toggles "Show Tomorrow's Hotspots"
+    FE->>+BE: GET /predict?city=Bangalore
+
+    BE->>+DB: SELECT scans (14-day window)
+    DB-->>-BE: historical rows
+    BE->>+PRED: predict_hotspots(rows)
+    PRED->>PRED: Exponential time decay (half-life = 3 days)
+    PRED->>PRED: Day-of-week multiplier (Sat=1.3x)
+    PRED->>PRED: Same-weekday bonus (1.5x)
+    PRED-->>-BE: [{lat, lng, predicted_intensity}]
+
+    BE-->>-FE: Prediction points
+    FE->>FE: Render purple dashed markers
+
+    Op->>FE: Clicks "Mark Zone as Collected"
+    FE->>+BE: POST /scans/resolve {city, radius_km}
+    BE->>+DB: UPDATE is_collected = TRUE
+    DB-->>-BE: resolved_count
+    BE-->>-FE: ✅ 12 scans resolved
+    FE->>FE: Refresh heatmap (cleared zones disappear)
+```
+
+<details>
+<summary>📎 View Workflow Diagram (Image)</summary>
 
 ![Request Flow](./WorkFlow_EcoStream_AI.png)
+
+</details>
 
 ---
 
