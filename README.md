@@ -72,54 +72,12 @@
 
 ## 🏗️ System Architecture
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                        CITIZEN / OPERATOR                          │
-│                     (React Frontend — Vite)                        │
-│         ┌──────────────┐          ┌───────────────────┐            │
-│         │ Citizen Portal│          │  Gov Dashboard    │            │
-│         │ • LiveScan    │          │  • HeatMap        │            │
-│         │ • ChatBot     │          │  • PredictiveLayer│            │
-│         │ • FloatingChat│          │  • Zone Resolve   │            │
-│         └──────┬───────┘          └────────┬──────────┘            │
-└────────────────┼───────────────────────────┼──────────────────────-┘
-                 │  HTTP (axios)             │
-                 ▼                           ▼
-┌─────────────────────────────────────────────────────────────────────┐
-│                    BACKEND (FastAPI :8000)                          │
-│                                                                     │
-│  POST /analyze ─── YOLO Client ──────► Vision Service (:8001)      │
-│       │                                  YOLOv11s-seg              │
-│       ├── Groq Vision Classifier (fallback)                        │
-│       ├── RAG Pipeline ──► ChromaDB + Groq LLM                    │
-│       └── PostgreSQL Write (scan log)                              │
-│                                                                     │
-│  POST /chat ───── RAG Pipeline ──► LangChain → Groq Llama-3.1-8B  │
-│  GET  /heatmap ── KDE Engine ──► PostgreSQL (uncollected scans)    │
-│  GET  /predict ── Prediction Engine ──► PostgreSQL (14-day history)│
-│  POST /scans/resolve ── Mark zone collected ──► PostgreSQL         │
-└─────────────────────────────┬───────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────────────┐
-│                     DATA LAYER                                      │
-│                                                                     │
-│  PostgreSQL 15 ─── scans table (UUID, lat/lng, materials, timing)  │
-│  ChromaDB ──────── Vector store (SWM Rules corpus, BGE embeddings) │
-│  pdfs/ ─────────── Regulatory text corpus (5 city documents)       │
-└─────────────────────────────────────────────────────────────────────┘
-```
+![System Architecture](./System_Architecture_EcoStream_AI.jpeg)
+
 
 ### Request Flow: Citizen Scans Waste
 
-```
-Camera Frame → Client Compression → POST /analyze
-  → YOLO Detection (489ms avg) → Material Labels
-  → Groq Vision Classifier (fallback)
-  → RAG: Hybrid Retrieve → Rerank → LLM Generate (376ms avg)
-  → PostgreSQL: Log scan + latency (16ms avg)
-  → Response: { materials, advice, timing_ms } (979ms total)
-```
+![Request Flow](./WorkFlow_EcoStream_AI.png)
 
 ---
 
